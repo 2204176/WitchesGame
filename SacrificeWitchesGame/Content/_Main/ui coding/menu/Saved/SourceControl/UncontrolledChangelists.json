@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/mainmenu.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/creditsmenu.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/mainmenulevel.umap",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/backgroundyes.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/creditsbackground.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/creditshovered.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/creditsnormal.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/creditspressed.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/exithovered.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/exitnormal.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/exitpressed.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/mainmenuimagebackground.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/normalexitbutton.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/optionshovered.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/optionsnormal.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/optionspressed.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/starthovered.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/startnormal.uasset",
+				"C:/Users/2306391/Documents/Unreal Projects/menu/Content/menu/startpressed.uasset"
+			]
+		}
+	]
+}
