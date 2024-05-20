@@ -5,7 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/WitchesGame/SacrificeWitchesGame/Content/AssetsvilleTown/Maps/Demonstration.umap",
 				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/ConventCharacters/Cat/T-Pose__CAT.uasset",
 				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/ConventCharacters/Cat/T-Pose__CAT_Skeleton.uasset",
 				"D:/WitchesGame/SacrificeWitchesGame/Content/AssetsvilleTown/Maps/MainLevel.umap",
@@ -27,6 +26,15 @@
 				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Cave/TORCH/TORCH_torch_Emissive.uasset",
 				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Cave/TORCH/TORCH_torch_Normal.uasset",
 				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Cave/TORCH/TORCH_torch_OcclusionRoughnessMetallic.uasset",
+				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Cave/NewMaterial_Inst.uasset",
+				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/SpikesEnding/BP_SpikesTrap.uasset",
+				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/_GENERATED/2204176/Boolean_57DC7BA5.uasset",
+				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/_GENERATED/2204176/Box_32ED2676.uasset",
+				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/_GENERATED/2204176/Box_B0D65EE2.uasset",
+				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/_GENERATED/2204176/Box_DC030525.uasset",
+				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/SpikesEnding/ABP_SpikeTrap.uasset",
+				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/SpikesEnding/SpikeTrap_Idle.uasset",
+				"D:/WitchesGame/SacrificeWitchesGame/Content/AssetsvilleTown/Maps/Demonstration.umap",
 				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/ConventCharacters/Cat/T-Pose__CAT_Skeleton_PoseAsset1.uasset",
 				"D:/WitchesGame/SacrificeWitchesGame/Content/_Main/ConventCharacters/Cat/T-Pose__CAT_Skeleton_PoseAsset.uasset"
 			]
