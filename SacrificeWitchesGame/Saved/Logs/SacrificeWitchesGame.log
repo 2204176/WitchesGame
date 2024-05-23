@@ -1092,3 +1092,156 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.23-17.34.02:940][  1]LogAssetRegistry: AssetRegistryGather time 0.3411s: AssetDataDiscovery 0.0620s, AssetDataGather 0.2240s, StoreResults 0.0552s.
 [2024.05.23-17.34.02:969][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
 [2024.05.23-17.35.54:423][758]LogDerivedDataCache: C:/Users/2204176/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.187 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7419 files in 9463 folders with total size 173 MiB.
+[2024.05.23-17.36.40:590][896]AssetReimport: New page: Outstanding source content changes 19:36:40
+[2024.05.23-17.36.40:596][896]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Guess I’ll have to find another nun….wav]
+[2024.05.23-17.36.40:598][896]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Guess I’ll have to find another nun….wav)
+[2024.05.23-17.36.40:726][896]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.40:820][896]LogSlate: Took 0.002188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.23-17.36.40:857][896]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/Guess_I’ll_have_to_find_another_nun….Guess_I’ll_have_to_find_another_nun…: 262144
+[2024.05.23-17.36.40:909][897]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Girl you won’t escape your fate so easily.wav]
+[2024.05.23-17.36.40:912][897]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Girl you won’t escape your fate so easily.wav)
+[2024.05.23-17.36.41:093][897]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.41:240][898]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Gabriel I fear this cannot continue.wav]
+[2024.05.23-17.36.41:243][898]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Gabriel I fear this cannot continue.wav)
+[2024.05.23-17.36.41:322][898]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.41:381][898]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Evil cackle and walk into darkness.wav]
+[2024.05.23-17.36.41:383][898]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Evil cackle and walk into darkness.wav)
+[2024.05.23-17.36.41:503][898]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.41:591][899]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Evangeline my child.wav]
+[2024.05.23-17.36.41:594][899]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Evangeline my child.wav)
+[2024.05.23-17.36.41:724][899]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.41:861][900]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/Evangeline_my_child.Evangeline_my_child: 262144
+[2024.05.23-17.36.41:924][900]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Evangeline my child you must run from here.wav]
+[2024.05.23-17.36.41:927][900]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Evangeline my child you must run from here.wav)
+[2024.05.23-17.36.42:062][900]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.42:197][901]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/Evangeline_my_child_you_must_run_from_here.Evangeline_my_child_you_must_run_from_here: 262144
+[2024.05.23-17.36.42:257][901]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Celestine the sacrifice blade is ready.wav]
+[2024.05.23-17.36.42:260][901]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Celestine the sacrifice blade is ready.wav)
+[2024.05.23-17.36.42:380][901]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.42:507][902]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/Celestine_the_sacrifice_blade_is_ready.Celestine_the_sacrifice_blade_is_ready: 262144
+[2024.05.23-17.36.42:591][902]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Cackle, why yes I have to confess my dear._.wav]
+[2024.05.23-17.36.42:599][902]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Cackle, why yes I have to confess my dear._.wav)
+[2024.05.23-17.36.43:120][902]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.43:479][903]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But you raised me like a daughter.wav]
+[2024.05.23-17.36.43:482][903]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But you raised me like a daughter.wav)
+[2024.05.23-17.36.43:631][903]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.43:782][904]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/But_you_raised_me_like_a_daughter.But_you_raised_me_like_a_daughter: 262144
+[2024.05.23-17.36.43:812][904]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But you don’t understand.wav]
+[2024.05.23-17.36.43:813][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But you don’t understand.wav)
+[2024.05.23-17.36.43:870][904]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.43:913][904]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But what, sister Veronica a cat….wav]
+[2024.05.23-17.36.43:916][904]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But what, sister Veronica a cat….wav)
+[2024.05.23-17.36.44:072][904]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.44:230][904]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/But_what__sister_Veronica_a_cat….But_what__sister_Veronica_a_cat…: 262144
+[2024.05.23-17.36.44:248][905]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But my love what can you mean.wav]
+[2024.05.23-17.36.44:251][905]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But my love what can you mean.wav)
+[2024.05.23-17.36.44:346][905]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.44:445][905]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/But_my_love_what_can_you_mean.But_my_love_what_can_you_mean: 262144
+[2024.05.23-17.36.44:580][906]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But my love what can you mean - Copy.wav]
+[2024.05.23-17.36.44:582][906]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But my love what can you mean - Copy.wav)
+[2024.05.23-17.36.44:677][906]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.44:746][906]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But is your the cst.wav]
+[2024.05.23-17.36.44:748][906]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But is your the cst.wav)
+[2024.05.23-17.36.44:856][906]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.44:939][907]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-17.36.44:964][907]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/But_is_your_the_cst.But_is_your_the_cst: 262144
+[2024.05.23-17.36.45:003][907]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.005937 seconds
+[2024.05.23-17.36.45:005][907]LogSerialization: UsePackageTrailer: 'true'
+[2024.05.23-17.36.45:010][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/Guess_I’ll_have_to_find_another_nun…
+[2024.05.23-17.36.45:011][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/Guess_I’ll_have_to_find_another_7781A0E74B2DECA458654895BF9FB34F.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Guess_I’ll_have_to_find_another_nun….uasset'
+[2024.05.23-17.36.45:023][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/Girl_you_won’t_escape_your_fate_so_easily
+[2024.05.23-17.36.45:025][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/Girl_you_won’t_escape_your_fate_AA196B324E3BF21F0AA073AD6AD284E7.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Girl_you_won’t_escape_your_fate_so_easily.uasset'
+[2024.05.23-17.36.45:036][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/Gabriel_I_fear_this_cannot_continue
+[2024.05.23-17.36.45:037][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/Gabriel_I_fear_this_cannot_conti2B95CD98474134BBCF1D2FAF645CFA7C.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Gabriel_I_fear_this_cannot_continue.uasset'
+[2024.05.23-17.36.45:047][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/Evil_cackle_and_walk_into_darkness
+[2024.05.23-17.36.45:048][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/Evil_cackle_and_walk_into_darkneFCD70DD848C80FF1819E19A409BA4BAE.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Evil_cackle_and_walk_into_darkness.uasset'
+[2024.05.23-17.36.45:053][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Audio/VoiceActing/Evangeline_my_child" FILE="D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Evangeline_my_child.uasset" SILENT=true
+[2024.05.23-17.36.45:059][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/Evangeline_my_child
+[2024.05.23-17.36.45:060][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/Evangeline_my_child59C1756D4E7183D64E5B3C9C0F4775CF.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Evangeline_my_child.uasset'
+[2024.05.23-17.36.45:072][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/Evangeline_my_child_you_must_run_from_here
+[2024.05.23-17.36.45:073][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/Evangeline_my_child_you_must_runD1D955894D77F3DB4CD17CBFB024CFE0.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Evangeline_my_child_you_must_run_from_here.uasset'
+[2024.05.23-17.36.45:084][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/Celestine_the_sacrifice_blade_is_ready
+[2024.05.23-17.36.45:085][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/Celestine_the_sacrifice_blade_is3567B49342359D3B5F65DB93A4C7A7D1.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Celestine_the_sacrifice_blade_is_ready.uasset'
+[2024.05.23-17.36.45:106][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/Cackle__why_yes_I_have_to_confess_my_dear__
+[2024.05.23-17.36.45:107][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/Cackle__why_yes_I_have_to_confesE5748C0341FFA2A9919EA08A6FA6C24A.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Cackle__why_yes_I_have_to_confess_my_dear__.uasset'
+[2024.05.23-17.36.45:119][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/But_you_raised_me_like_a_daughter
+[2024.05.23-17.36.45:120][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/But_you_raised_me_like_a_daughte4763911748521643DB33DEA44BA0710B.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But_you_raised_me_like_a_daughter.uasset'
+[2024.05.23-17.36.45:124][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Audio/VoiceActing/But_you_don’t_understand" FILE="D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But_you_don’t_understand.uasset" SILENT=true
+[2024.05.23-17.36.45:131][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/But_you_don’t_understand
+[2024.05.23-17.36.45:131][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/But_you_don’t_understand8281336747DEAE297057C6AB7E39BEBC.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But_you_don’t_understand.uasset'
+[2024.05.23-17.36.45:143][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/But_what__sister_Veronica_a_cat…
+[2024.05.23-17.36.45:144][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/But_what__sister_Veronica_a_cat…978AF95947C7C09796005DBD50F0A3D3.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But_what__sister_Veronica_a_cat….uasset'
+[2024.05.23-17.36.45:155][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/But_my_love_what_can_you_mean
+[2024.05.23-17.36.45:156][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/But_my_love_what_can_you_mean1341EFF943296FF95ECB48A1CDF7A8FF.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But_my_love_what_can_you_mean.uasset'
+[2024.05.23-17.36.45:166][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/But_my_love_what_can_you_mean_-_Copy
+[2024.05.23-17.36.45:167][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/But_my_love_what_can_you_mean_-_01F8FE5D4986E1A9BD93C4842898B380.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But_my_love_what_can_you_mean_-_Copy.uasset'
+[2024.05.23-17.36.45:172][907]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Audio/VoiceActing/But_is_your_the_cst" FILE="D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But_is_your_the_cst.uasset" SILENT=true
+[2024.05.23-17.36.45:179][907]LogSavePackage: Moving output files for package: /Game/_Main/Audio/VoiceActing/But_is_your_the_cst
+[2024.05.23-17.36.45:180][907]LogSavePackage: Moving 'D:/WitchesGame/SacrificeWitchesGame/Saved/But_is_your_the_cstF091B99943363C8094A95BA4D45C82FD.tmp' to 'D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/But_is_your_the_cst.uasset'
+[2024.05.23-17.36.45:190][907]LogFileHelpers: InternalPromptForCheckoutAndSave took 250 ms
+[2024.05.23-17.36.45:274][908]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/Guess_I’ll_have_to_find_another_nun….Guess_I’ll_have_to_find_another_nun…
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/Girl_you_won’t_escape_your_fate_so_easily.Girl_you_won’t_escape_your_fate_so_easily
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/Gabriel_I_fear_this_cannot_continue.Gabriel_I_fear_this_cannot_continue
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/Evil_cackle_and_walk_into_darkness.Evil_cackle_and_walk_into_darkness
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/Evangeline_my_child.Evangeline_my_child
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/Evangeline_my_child_you_must_run_from_here.Evangeline_my_child_you_must_run_from_here
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/Celestine_the_sacrifice_blade_is_ready.Celestine_the_sacrifice_blade_is_ready
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/Cackle__why_yes_I_have_to_confess_my_dear__.Cackle__why_yes_I_have_to_confess_my_dear__
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/But_you_raised_me_like_a_daughter.But_you_raised_me_like_a_daughter
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/But_you_don’t_understand.But_you_don’t_understand
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/But_what__sister_Veronica_a_cat….But_what__sister_Veronica_a_cat…
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/But_my_love_what_can_you_mean.But_my_love_what_can_you_mean
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/But_my_love_what_can_you_mean_-_Copy.But_my_love_what_can_you_mean_-_Copy
+[2024.05.23-17.36.45:274][908]LogContentValidation: Display: Validating /Script/Engine.SoundWave /Game/_Main/Audio/VoiceActing/But_is_your_the_cst.But_is_your_the_cst
+[2024.05.23-17.36.45:280][908]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/What’s going on.wav]
+[2024.05.23-17.36.45:283][908]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/What’s going on.wav)
+[2024.05.23-17.36.45:391][908]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.45:499][909]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/What’s_going_on.What’s_going_on: 262144
+[2024.05.23-17.36.45:608][909]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Well of cause dear.wav]
+[2024.05.23-17.36.45:612][909]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Well of cause dear.wav)
+[2024.05.23-17.36.45:823][909]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.45:977][910]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Well I must be going now.wav]
+[2024.05.23-17.36.45:980][910]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Well I must be going now.wav)
+[2024.05.23-17.36.46:098][910]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.46:220][911]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/Well_I_must_be_going_now.Well_I_must_be_going_now: 262144
+[2024.05.23-17.36.46:310][911]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/We have sinned Gabriel.wav]
+[2024.05.23-17.36.46:313][911]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/We have sinned Gabriel.wav)
+[2024.05.23-17.36.46:430][911]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.46:549][912]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/We_have_sinned_Gabriel.We_have_sinned_Gabriel: 262144
+[2024.05.23-17.36.46:645][912]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Wait mother I I do not possess a pure soul.wav]
+[2024.05.23-17.36.46:649][912]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Wait mother I I do not possess a pure soul.wav)
+[2024.05.23-17.36.46:843][912]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.46:986][913]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Thank you mother.wav]
+[2024.05.23-17.36.46:987][913]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Thank you mother.wav)
+[2024.05.23-17.36.47:024][913]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.47:054][913]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Sisters we are gathered here today….wav]
+[2024.05.23-17.36.47:060][913]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Sisters we are gathered here today….wav)
+[2024.05.23-17.36.47:360][913]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.47:579][914]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/She won’t.wav]
+[2024.05.23-17.36.47:580][914]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/She won’t.wav)
+[2024.05.23-17.36.47:653][914]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.47:716][914]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Save your breath dear.wav]
+[2024.05.23-17.36.47:718][914]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Save your breath dear.wav)
+[2024.05.23-17.36.47:839][914]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.47:933][915]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Sacrifice.wav]
+[2024.05.23-17.36.47:935][915]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Sacrifice.wav)
+[2024.05.23-17.36.47:970][915]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.48:002][915]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Right away.wav]
+[2024.05.23-17.36.48:004][915]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Right away.wav)
+[2024.05.23-17.36.48:086][915]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.48:161][916]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/Right_away.Right_away: 262144
+[2024.05.23-17.36.48:268][916]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Nonsense we’ve been careful have we not.wav]
+[2024.05.23-17.36.48:271][916]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Nonsense we’ve been careful have we not.wav)
+[2024.05.23-17.36.48:426][916]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.48:581][917]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/Nonsense_we’ve_been_careful_have_we_not.Nonsense_we’ve_been_careful_have_we_not: 262144
+[2024.05.23-17.36.48:601][917]LogAudioEditor: Performing atomic reimport of [C:/Program Files/Epic Games/UE_5.2/Engine/Binaries/Win64/No..!.wav]
+[2024.05.23-17.36.48:607][917]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/No! Celestine the ritua.wav]
+[2024.05.23-17.36.48:610][917]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/No! Celestine the ritua.wav)
+[2024.05.23-17.36.48:768][917]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.48:930][918]LogAudio: Display: Chunk size for SoundWave /Game/_Main/Audio/VoiceActing/No__Celestine_the_ritua.No__Celestine_the_ritua: 262144
+[2024.05.23-17.36.48:935][918]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Lilith accept this offering.wav]
+[2024.05.23-17.36.48:939][918]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Lilith accept this offering.wav)
+[2024.05.23-17.36.49:131][918]LogAudioEditor: -- imported successfully
+[2024.05.23-17.36.49:274][919]LogAudioEditor: Performing atomic reimport of [D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Just go my child.wav]
+[2024.05.23-17.36.49:276][919]LogFactory: FactoryCreateFile: SoundWave with ReimportSoundFactory (0 0 D:/WitchesGame/SacrificeWitchesGame/Content/_Main/Audio/VoiceActing/Just go my child.wav)
