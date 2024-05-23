@@ -10140,3 +10140,10 @@ Script Stack (1 frames) :
 [2024.05.23-16.20.13:812][822]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3.BPNUN3
 [2024.05.23-16.20.13:812][822]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Main/CaveLevel/Cave.Cave
 [2024.05.23-16.20.13:812][822]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3.ABPNUN3
+[2024.05.23-16.22.10:365][965]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.05.23-16.22.11:243][  9]LogViewport: Scene viewport resized to 128x128, mode Windowed.
+[2024.05.23-16.22.18:874][364]LogContentBrowser: Attempting asset rename: Idle_nun2_mixamo_com -> Idle_nun2_mixamo_com
+[2024.05.23-16.24.22:022][939]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.05.23-16.25.11:844][188]BlueprintLog: New page: Compile ABPNUN3
+[2024.05.23-16.25.11:850][188]LogBlueprint: Warning: [AssetLog] D:\2226549\WitchesGame\SacrificeWitchesGame\Content\_Main\ConventCharacters\NunNPC\Nun2\ABPNUN3.uasset: [Compiler] idle/walk to sprint?  will never be taken, please connect something to  Can Enter Transition
+[2024.05.23-16.25.11:902][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
