@@ -10147,3 +10147,643 @@ Script Stack (1 frames) :
 [2024.05.23-16.25.11:844][188]BlueprintLog: New page: Compile ABPNUN3
 [2024.05.23-16.25.11:850][188]LogBlueprint: Warning: [AssetLog] D:\2226549\WitchesGame\SacrificeWitchesGame\Content\_Main\ConventCharacters\NunNPC\Nun2\ABPNUN3.uasset: [Compiler] idle/walk to sprint?  will never be taken, please connect something to  Can Enter Transition
 [2024.05.23-16.25.11:902][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.05.23-16.27.14:380][996]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Base'.'
+[2024.05.23-16.27.14:380][996]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Brush 'ContentBrowser.ListViewFolderIcon.Mask'.'
+[2024.05.23-16.28.05:831][166]BlueprintLog: New page: Compile ABPNUN3
+[2024.05.23-16.28.05:836][166]LogBlueprint: Warning: [AssetLog] D:\2226549\WitchesGame\SacrificeWitchesGame\Content\_Main\ConventCharacters\NunNPC\Nun2\ABPNUN3.uasset: [Compiler] idle/walk to sprint?  will never be taken, please connect something to  Can Enter Transition
+[2024.05.23-16.28.05:883][166]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.05.23-16.28.07:322][232]BlueprintLog: New page: Compile ABPNUN3
+[2024.05.23-16.28.07:327][232]LogBlueprint: Warning: [AssetLog] D:\2226549\WitchesGame\SacrificeWitchesGame\Content\_Main\ConventCharacters\NunNPC\Nun2\ABPNUN3.uasset: [Compiler] idle/walk to sprint?  will never be taken, please connect something to  Can Enter Transition
+[2024.05.23-16.28.07:375][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.05.23-16.28.08:168][268]BlueprintLog: New page: Compile ABPNUN3
+[2024.05.23-16.28.08:173][268]LogBlueprint: Warning: [AssetLog] D:\2226549\WitchesGame\SacrificeWitchesGame\Content\_Main\ConventCharacters\NunNPC\Nun2\ABPNUN3.uasset: [Compiler] idle/walk to sprint?  will never be taken, please connect something to  Can Enter Transition
+[2024.05.23-16.28.08:218][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.05.23-16.29.00:404][177]LogSlate: Window 'ABPNUN3' being destroyed
+[2024.05.23-16.29.00:409][177]LogSlate: Window 'ABPNUN3' being destroyed
+[2024.05.23-16.29.00:420][177]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.05.23-16.29.00:420][177]LogWorld: UWorld::CleanupWorld for World_104, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.29.00:420][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.29.00:505][177]LogWorld: UWorld::CleanupWorld for World_106, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.29.00:505][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.29.00:530][177]LogWorld: UWorld::CleanupWorld for World_107, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.29.00:530][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.29.00:669][177]LogWorld: UWorld::CleanupWorld for World_108, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.29.00:669][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.29.00:715][177]LogWorld: UWorld::CleanupWorld for World_113, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.29.00:715][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.29.00:738][177]LogWorld: UWorld::CleanupWorld for World_114, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.29.00:738][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.29.00:875][177]LogWorld: UWorld::CleanupWorld for World_115, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.29.00:875][177]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.29.14:577][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.29.14:577][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.29.14:579][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.29.14:579][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.29.14:580][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.29.14:580][144]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.29.24:835][870]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3.BPNUN3
+[2024.05.23-16.29.24:835][870]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.29.24:835][870]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.29.29:933][ 22]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3.ABPNUN3
+[2024.05.23-16.29.29:934][ 22]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.29.29:934][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.29.29:949][ 22]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.29.29:949][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.29.29:958][ 22]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_118:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.05.23-16.29.30:141][ 22]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.29.30:141][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.29.30:383][ 22]LogViewport: Scene viewport resized to 344x289, mode Windowed.
+[2024.05.23-16.29.45:670][872]BlueprintLog: New page: Compile ABPNUN3
+[2024.05.23-16.29.45:724][872]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.05.23-16.29.57:249][507]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.05.23-16.30.00:524][507]LogSlate: Window 'Save Content' being destroyed
+[2024.05.23-16.30.00:533][507]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.30.00:592][507]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3" FILE="D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3.uasset" SILENT=true
+[2024.05.23-16.30.00:606][507]LogSavePackage: Moving output files for package: /Game/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3
+[2024.05.23-16.30.00:607][507]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/ABPNUN3DB9B8D4C4BAB321F099B2D97008C9113.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3.uasset'
+[2024.05.23-16.30.00:620][507]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 13.1 sec)
+[2024.05.23-16.30.00:632][507]AssetCheck: New page: Asset Save: ABPNUN3
+[2024.05.23-16.30.00:632][507]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3.ABPNUN3
+[2024.05.23-16.30.06:524][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.05.23-16.31.56:310][904]BlueprintLog: New page: Compile BPNUN3
+[2024.05.23-16.31.56:459][904]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.05.23-16.31.56:601][904]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.05:009][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.05:009][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.05:009][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.05:010][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.05:010][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.05:011][196]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.07:721][398]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.23-16.32.07:737][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.23-16.32.07:737][398]PIE: New page: PIE session: Cave (23 May 2024, 18:32:07)
+[2024.05.23-16.32.07:737][398]LogPlayLevel: Creating play world package: /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.32.07:780][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043098s)
+[2024.05.23-16.32.07:780][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/CaveLevel/Cave.Cave to /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave (0.043152s)
+[2024.05.23-16.32.07:780][398]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.32.07:780][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.32.07:780][398]LogAIModule: Creating AISystem for world Cave
+[2024.05.23-16.32.07:781][398]LogPlayLevel: PIE: World Init took: (0.001275s)
+[2024.05.23-16.32.07:810][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.05.23-16.32.07:815][398]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2024.05.23-16.32.07:815][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.23-16.32.07:815][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.23-16.32.07:815][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.23-16.32.07:815][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.23-16.32.07:815][398]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.23-16.32.07:815][398]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.23-16.32.07:815][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.23-16.32.07:815][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.23-16.32.07:816][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.23-16.32.07:816][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.23-16.32.07:816][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.23-16.32.07:818][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.23-16.32.07:833][398]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.05.23-16.32.07:833][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.23-16.32.07:833][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.23-16.32.07:833][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.23-16.32.07:833][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=35
+[2024.05.23-16.32.07:833][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=35
+[2024.05.23-16.32.07:836][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=35
+[2024.05.23-16.32.07:836][398]LogInit: FAudioDevice initialized with ID 35.
+[2024.05.23-16.32.07:836][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=35
+[2024.05.23-16.32.07:836][398]LogAudio: Display: Audio Device (ID: 35) registered with world 'Cave'.
+[2024.05.23-16.32.07:836][398]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 35
+[2024.05.23-16.32.07:841][398]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-16.32.07:870][398]LogWorld: Bringing World /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2024.05.23-17.32.07
+[2024.05.23-16.32.07:871][398]LogWorld: Bringing up level for play took: 0.030115
+[2024.05.23-16.32.07:874][398]LogOnline: OSS: Created online subsystem instance for: :Context_146
+[2024.05.23-16.32.07:879][398]PIE: Server logged in
+[2024.05.23-16.32.07:880][398]PIE: Play in editor total start time 0.143 seconds.
+[2024.05.23-16.32.08:117][398]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.08:117][398]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.08:117][398]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.08:118][398]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.08:118][398]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.08:119][398]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.08:123][398]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.26:314][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-16.32.26:314][719]LogWorld: BeginTearingDown for /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.32.26:315][719]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.32.26:320][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.32.26:348][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.23-16.32.26:357][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.32.26:387][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.23-16.32.26:387][719]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 35
+[2024.05.23-16.32.26:388][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.05.23-16.32.26:389][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=35
+[2024.05.23-16.32.26:394][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-16.32.26:405][719]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2024.05.23-16.32.26:450][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.26:450][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.26:451][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.26:451][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.26:451][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.26:452][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.26:456][719]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.26:476][720]LogPlayLevel: Display: Destroying online subsystem :Context_146
+[2024.05.23-16.32.33:698][144]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.32.33:746][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: ================================================
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Total job queries 4,628, among them cache hits 584 (12.62%)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Tracking 4,041 distinct input hashes that result in 2,722 distinct outputs (67.36%)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: RAM used: 69.25 MiB of 1.60 GiB budget. Usage: 4.23%
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Shaders Compiled: 4,041
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Jobs assigned 4,044, completed 4,041 (99.93%)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Average time worker was idle: 127.12 s
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Time job spent in pending queue: average 75.55 s, longest 181.03 s
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Job execution time: average 4.68 s, max 15.48 s
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Job life time (pending + execution): average 80.29 s, max 186.73
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 267.88 s
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Jobs were issued in 948 batches (only local compilation was used), average 4.27 jobs/batch
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Average processing rate: 15.09 jobs/sec
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Total thread time: 2,139.817 s
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Total thread preprocess time: 129.161 s
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Percentage time preprocessing: 6.04%
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Effective parallelization: 7.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.20 sec, max 8.30 sec, min 2.01 sec)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled   10 times, average 4.97 sec, max 5.74 sec, min 3.54 sec)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display:                                    FSSDSpatialAccumulationCS (compiled   33 times, average 1.82 sec, max 2.46 sec, min 1.02 sec)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display:                                        FCloudRenderViewPS100 (compiled    1 times, average 1.70 sec, max 1.70 sec, min 1.70 sec)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display:                                             FDeferredLightPS (compiled  150 times, average 1.40 sec, max 2.61 sec, min 1.22 sec)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display:                                             FDeferredLightPS - 9.80% of total time (compiled  150 times, average 1.40 sec, max 2.61 sec, min 1.22 sec)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.26% of total time (compiled   96 times, average 0.95 sec, max 1.52 sec, min 0.67 sec)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 4.02% of total time (compiled  128 times, average 0.67 sec, max 1.22 sec, min 0.35 sec)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 4.01% of total time (compiled  128 times, average 0.67 sec, max 1.13 sec, min 0.47 sec)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display:                                  FScreenProbeTraceMeshSDFsCS - 3.68% of total time (compiled   96 times, average 0.82 sec, max 1.73 sec, min 0.36 sec)
+[2024.05.23-16.32.34:523][182]LogShaderCompilers: Display: ================================================
+[2024.05.23-16.32.36:073][258]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.Cave
+[2024.05.23-16.32.36:074][258]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.32.36:074][258]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.32.48:087][925]BlueprintLog: New page: Compile Cave
+[2024.05.23-16.32.48:181][925]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.05.23-16.32.50:427][ 51]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.23-16.32.50:439][ 51]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.23-16.32.50:439][ 51]PIE: New page: PIE session: Cave (23 May 2024, 18:32:50)
+[2024.05.23-16.32.50:474][ 51]LogPlayLevel: Creating play world package: /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.32.50:515][ 51]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040544s)
+[2024.05.23-16.32.50:515][ 51]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/CaveLevel/Cave.Cave to /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave (0.040593s)
+[2024.05.23-16.32.50:515][ 51]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.32.50:515][ 51]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.32.50:516][ 51]LogAIModule: Creating AISystem for world Cave
+[2024.05.23-16.32.50:516][ 51]LogPlayLevel: PIE: World Init took: (0.001171s)
+[2024.05.23-16.32.50:543][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.05.23-16.32.50:548][ 51]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2024.05.23-16.32.50:548][ 51]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.23-16.32.50:548][ 51]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.23-16.32.50:548][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.23-16.32.50:548][ 51]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.23-16.32.50:548][ 51]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.23-16.32.50:548][ 51]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.23-16.32.50:548][ 51]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.23-16.32.50:548][ 51]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.23-16.32.50:548][ 51]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.23-16.32.50:548][ 51]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.23-16.32.50:548][ 51]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.23-16.32.50:551][ 51]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.23-16.32.50:565][ 51]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.05.23-16.32.50:565][ 51]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.23-16.32.50:565][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.23-16.32.50:565][ 51]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.23-16.32.50:567][ 51]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=36
+[2024.05.23-16.32.50:567][ 51]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=36
+[2024.05.23-16.32.50:568][ 51]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=36
+[2024.05.23-16.32.50:569][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=36
+[2024.05.23-16.32.50:569][ 51]LogInit: FAudioDevice initialized with ID 36.
+[2024.05.23-16.32.50:569][ 51]LogAudio: Display: Audio Device (ID: 36) registered with world 'Cave'.
+[2024.05.23-16.32.50:569][ 51]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 36
+[2024.05.23-16.32.50:572][ 51]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-16.32.50:602][ 51]LogWorld: Bringing World /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2024.05.23-17.32.50
+[2024.05.23-16.32.50:603][ 51]LogWorld: Bringing up level for play took: 0.030200
+[2024.05.23-16.32.50:605][ 51]LogOnline: OSS: Created online subsystem instance for: :Context_150
+[2024.05.23-16.32.50:609][ 51]PIE: Server logged in
+[2024.05.23-16.32.50:610][ 51]PIE: Play in editor total start time 0.17 seconds.
+[2024.05.23-16.32.50:750][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.50:751][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.50:751][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.50:752][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.50:752][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.50:752][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.50:757][ 51]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.32.55:141][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.08:170][206]LogNet: Browse: /Game/_Main/CaveLevel/Cave
+[2024.05.23-16.33.08:170][206]LogLoad: LoadMap: /Game/_Main/CaveLevel/Cave
+[2024.05.23-16.33.08:170][206]LogWorld: BeginTearingDown for /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.33.08:172][206]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.33.08:175][206]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.33.08:202][206]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.23-16.33.08:217][206]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.05.23-16.33.08:222][206]LogPlayLevel: Creating play world package: /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.33.08:262][206]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040105s)
+[2024.05.23-16.33.08:262][206]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/CaveLevel/Cave.Cave to /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave (0.040168s)
+[2024.05.23-16.33.08:262][206]LogAudio: Display: Audio Device (ID: 36) registered with world 'Cave'.
+[2024.05.23-16.33.08:262][206]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.33.08:263][206]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.33.08:263][206]LogAIModule: Creating AISystem for world Cave
+[2024.05.23-16.33.08:264][206]LogPlayLevel: PIE: World Init took: (0.001212s)
+[2024.05.23-16.33.08:264][206]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-16.33.08:286][206]LogWorld: Bringing World /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2024.05.23-17.33.08
+[2024.05.23-16.33.08:287][206]LogWorld: Bringing up level for play took: 0.023079
+[2024.05.23-16.33.08:290][206]LogLoad: Took 0.120148 seconds to LoadMap(/Game/_Main/CaveLevel/UEDPIE_0_Cave)
+[2024.05.23-16.33.08:313][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.08:313][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.08:314][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.08:315][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.08:315][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.08:316][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.08:322][206]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.12:478][458]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.28:100][517]LogNet: Browse: /Game/_Main/CaveLevel/Cave
+[2024.05.23-16.33.28:100][517]LogLoad: LoadMap: /Game/_Main/CaveLevel/Cave
+[2024.05.23-16.33.28:100][517]LogWorld: BeginTearingDown for /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.33.28:102][517]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.33.28:105][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.33.28:134][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.23-16.33.28:144][517]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.05.23-16.33.28:149][517]LogPlayLevel: Creating play world package: /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.33.28:189][517]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039764s)
+[2024.05.23-16.33.28:189][517]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/CaveLevel/Cave.Cave to /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave (0.039822s)
+[2024.05.23-16.33.28:189][517]LogAudio: Display: Audio Device (ID: 36) registered with world 'Cave'.
+[2024.05.23-16.33.28:189][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.33.28:189][517]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.33.28:190][517]LogAIModule: Creating AISystem for world Cave
+[2024.05.23-16.33.28:190][517]LogPlayLevel: PIE: World Init took: (0.001231s)
+[2024.05.23-16.33.28:190][517]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-16.33.28:212][517]LogWorld: Bringing World /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2024.05.23-17.33.28
+[2024.05.23-16.33.28:214][517]LogWorld: Bringing up level for play took: 0.022951
+[2024.05.23-16.33.28:217][517]LogLoad: Took 0.117295 seconds to LoadMap(/Game/_Main/CaveLevel/UEDPIE_0_Cave)
+[2024.05.23-16.33.28:238][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.28:239][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.28:239][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.28:240][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.28:240][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.28:241][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.28:245][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.30:765][662]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.38:506][176]LogNet: Browse: /Game/_Main/CaveLevel/Cave
+[2024.05.23-16.33.38:506][176]LogLoad: LoadMap: /Game/_Main/CaveLevel/Cave
+[2024.05.23-16.33.38:506][176]LogWorld: BeginTearingDown for /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.33.38:507][176]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.33.38:510][176]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.33.38:540][176]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.23-16.33.38:550][176]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.05.23-16.33.38:555][176]LogPlayLevel: Creating play world package: /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.33.38:594][176]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039127s)
+[2024.05.23-16.33.38:594][176]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/CaveLevel/Cave.Cave to /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave (0.039190s)
+[2024.05.23-16.33.38:594][176]LogAudio: Display: Audio Device (ID: 36) registered with world 'Cave'.
+[2024.05.23-16.33.38:594][176]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.33.38:594][176]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.33.38:594][176]LogAIModule: Creating AISystem for world Cave
+[2024.05.23-16.33.38:595][176]LogPlayLevel: PIE: World Init took: (0.001233s)
+[2024.05.23-16.33.38:595][176]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-16.33.38:618][176]LogWorld: Bringing World /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2024.05.23-17.33.38
+[2024.05.23-16.33.38:619][176]LogWorld: Bringing up level for play took: 0.023214
+[2024.05.23-16.33.38:622][176]LogLoad: Took 0.116303 seconds to LoadMap(/Game/_Main/CaveLevel/UEDPIE_0_Cave)
+[2024.05.23-16.33.38:645][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.38:646][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.38:646][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.38:647][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.38:647][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.38:648][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.38:655][176]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.40:365][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-16.33.40:365][263]LogWorld: BeginTearingDown for /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.33.40:366][263]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.33.40:371][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.33.40:378][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.23-16.33.40:386][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.33.40:413][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-16.33.40:417][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 36
+[2024.05.23-16.33.40:417][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.05.23-16.33.40:419][263]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=36
+[2024.05.23-16.33.40:434][263]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.05.23-16.33.40:478][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.40:478][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.40:479][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.40:479][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.40:479][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.40:480][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.40:485][263]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.33.40:503][264]LogPlayLevel: Display: Destroying online subsystem :Context_150
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.20:410][ 41]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=10.4.4.164:64486, Sequence=0
+[2024.05.23-16.34.34:884][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.05.23-16.34.35:027][669]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/CaveLevel/Cave_Auto4
+[2024.05.23-16.34.35:028][669]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/Cave_Auto44E4D6AB64CE96DAC28A022A335F749D3.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/Autosaves/Game/_Main/CaveLevel/Cave_Auto4.umap'
+[2024.05.23-16.34.35:038][669]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/_Main/CaveLevel/Cave' took 0.182
+[2024.05.23-16.34.35:038][669]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.182
+[2024.05.23-16.34.35:038][669]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3] ([2] browsable assets)...
+[2024.05.23-16.34.35:059][669]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3.BPNUN3]
+[2024.05.23-16.34.35:060][669]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3]
+[2024.05.23-16.34.35:071][669]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3_Auto4
+[2024.05.23-16.34.35:071][669]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/BPNUN3_Auto4FE3EC61B4CA24108689450B2115CF26A.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/Autosaves/Game/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3_Auto4.uasset'
+[2024.05.23-16.34.35:072][669]LogFileHelpers: Auto-saving content packages took 0.033
+[2024.05.23-16.34.45:092][ 90]BlueprintLog: New page: Compile BPNUN3
+[2024.05.23-16.34.45:151][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'Hips' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'Spine1' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'Spine2' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'Head' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'LeftShoulder' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'RightShoulder' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'LeftUpLeg' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'LeftLeg' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'LeftFoot' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'LeftToeBase' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'RightUpLeg' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'RightLeg' 
+[2024.05.23-16.34.45:152][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'RightToeBase' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'Hips' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'Spine1' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'Spine2' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'Head' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'LeftShoulder' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'RightShoulder' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'LeftUpLeg' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'LeftLeg' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'LeftFoot' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'LeftToeBase' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'RightUpLeg' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'RightLeg' 
+[2024.05.23-16.34.45:153][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/_Main/CaveLevel/Cave.Cave:PersistentLevel.BPNUN3_C_2.CharacterMesh0' Bone: 'RightToeBase' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'Hips' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'Spine1' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'Spine2' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'Head' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'LeftShoulder' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'RightShoulder' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'LeftUpLeg' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'LeftLeg' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'LeftFoot' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'LeftToeBase' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'RightUpLeg' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'RightLeg' 
+[2024.05.23-16.34.45:154][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'RightToeBase' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'Hips' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'Spine1' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'Spine2' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'Head' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'LeftShoulder' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'RightShoulder' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'LeftUpLeg' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'LeftLeg' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'LeftFoot' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'LeftToeBase' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'RightUpLeg' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'RightLeg' 
+[2024.05.23-16.34.45:156][ 90]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_116:PersistentLevel.BPNUN3_C_0.CharacterMesh0' Bone: 'RightToeBase' 
+[2024.05.23-16.34.45:201][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.05.23-16.34.47:660][195]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.23-16.34.47:673][195]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.23-16.34.47:673][195]PIE: New page: PIE session: Cave (23 May 2024, 18:34:47)
+[2024.05.23-16.34.47:706][195]LogPlayLevel: Creating play world package: /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.34.47:748][195]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041262s)
+[2024.05.23-16.34.47:748][195]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/CaveLevel/Cave.Cave to /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave (0.041317s)
+[2024.05.23-16.34.47:748][195]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.34.47:748][195]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.34.47:748][195]LogAIModule: Creating AISystem for world Cave
+[2024.05.23-16.34.47:748][195]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2024.05.23-16.34.47:776][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.05.23-16.34.47:779][195]LogAudio: Display: Creating Audio Device:                 Id: 37, Scope: Unique, Realtime: True
+[2024.05.23-16.34.47:779][195]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.23-16.34.47:779][195]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.23-16.34.47:779][195]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.23-16.34.47:779][195]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.23-16.34.47:779][195]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.23-16.34.47:779][195]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.23-16.34.47:779][195]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.23-16.34.47:779][195]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.23-16.34.47:780][195]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.23-16.34.47:780][195]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.23-16.34.47:780][195]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.23-16.34.47:783][195]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.23-16.34.47:798][195]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.05.23-16.34.47:798][195]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.23-16.34.47:798][195]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.23-16.34.47:798][195]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.23-16.34.47:799][195]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=37
+[2024.05.23-16.34.47:799][195]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=37
+[2024.05.23-16.34.47:802][195]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=37
+[2024.05.23-16.34.47:802][195]LogInit: FAudioDevice initialized with ID 37.
+[2024.05.23-16.34.47:802][195]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=37
+[2024.05.23-16.34.47:802][195]LogAudio: Display: Audio Device (ID: 37) registered with world 'Cave'.
+[2024.05.23-16.34.47:802][195]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 37
+[2024.05.23-16.34.47:805][195]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-16.34.47:835][195]LogWorld: Bringing World /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2024.05.23-17.34.47
+[2024.05.23-16.34.47:837][195]LogWorld: Bringing up level for play took: 0.030369
+[2024.05.23-16.34.47:839][195]LogOnline: OSS: Created online subsystem instance for: :Context_151
+[2024.05.23-16.34.47:842][195]PIE: Server logged in
+[2024.05.23-16.34.47:843][195]PIE: Play in editor total start time 0.171 seconds.
+[2024.05.23-16.34.48:036][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.48:037][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.48:037][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.48:037][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.48:038][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.48:038][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.48:043][195]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.49:728][297]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.58:149][860]LogNet: Browse: /Game/_Main/CaveLevel/Cave
+[2024.05.23-16.34.58:149][860]LogLoad: LoadMap: /Game/_Main/CaveLevel/Cave
+[2024.05.23-16.34.58:149][860]LogWorld: BeginTearingDown for /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.34.58:150][860]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.34.58:154][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.34.58:184][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.23-16.34.58:193][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.05.23-16.34.58:199][860]LogPlayLevel: Creating play world package: /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.34.58:238][860]LogPlayLevel: PIE: StaticDuplicateObject took: (0.039256s)
+[2024.05.23-16.34.58:238][860]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/CaveLevel/Cave.Cave to /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave (0.039310s)
+[2024.05.23-16.34.58:238][860]LogAudio: Display: Audio Device (ID: 37) registered with world 'Cave'.
+[2024.05.23-16.34.58:238][860]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.34.58:238][860]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.34.58:238][860]LogAIModule: Creating AISystem for world Cave
+[2024.05.23-16.34.58:239][860]LogPlayLevel: PIE: World Init took: (0.001238s)
+[2024.05.23-16.34.58:239][860]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-16.34.58:262][860]LogWorld: Bringing World /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2024.05.23-17.34.58
+[2024.05.23-16.34.58:263][860]LogWorld: Bringing up level for play took: 0.023315
+[2024.05.23-16.34.58:267][860]LogLoad: Took 0.117662 seconds to LoadMap(/Game/_Main/CaveLevel/UEDPIE_0_Cave)
+[2024.05.23-16.34.58:287][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.58:288][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.58:288][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.58:289][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.58:290][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.58:290][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.34.58:296][860]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.35.01:137][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-16.35.01:137][ 15]LogWorld: BeginTearingDown for /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.35.01:138][ 15]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.35.01:142][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.35.01:172][ 15]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.23-16.35.01:179][ 15]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.35.01:208][ 15]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.23-16.35.01:208][ 15]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 37
+[2024.05.23-16.35.01:208][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.05.23-16.35.01:210][ 15]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
+[2024.05.23-16.35.01:215][ 15]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-16.35.01:225][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.05.23-16.35.01:272][ 15]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.35.01:272][ 15]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.35.01:273][ 15]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.35.01:273][ 15]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.35.01:273][ 15]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.35.01:274][ 15]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.35.01:278][ 15]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.35.01:296][ 16]LogPlayLevel: Display: Destroying online subsystem :Context_151
+[2024.05.23-16.36.30:458][280]BlueprintLog: New page: Compile ABPNUN3
+[2024.05.23-16.36.30:510][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.05.23-16.38.31:734][584]LogViewport: Scene viewport resized to 826x496, mode Windowed.
+[2024.05.23-16.39.55:311][127]LogDerivedDataCache: C:/Users/2226549/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.190 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7490 files in 9537 folders with total size 176 MiB.
+[2024.05.23-16.39.57:159][218]BlueprintLog: New page: Compile ABPNUN3
+[2024.05.23-16.39.57:164][218]LogBlueprint: Error: [AssetLog] D:\2226549\WitchesGame\SacrificeWitchesGame\Content\_Main\ConventCharacters\NunNPC\Nun2\ABPNUN3.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To BPNUN3  to imply a specific type.
+[2024.05.23-16.39.57:164][218]LogBlueprint: Error: [AssetLog] D:\2226549\WitchesGame\SacrificeWitchesGame\Content\_Main\ConventCharacters\NunNPC\Nun2\ABPNUN3.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Object Wildcard on pin Object
+[2024.05.23-16.39.57:213][218]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.05.23-16.40.21:435][923]BlueprintLog: New page: Compile ABPNUN3
+[2024.05.23-16.40.21:491][923]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.05.23-16.40.25:633][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.05.23-16.40.25:663][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.05.23-16.40.26:350][123]LogSlate: Window 'Save Content' being destroyed
+[2024.05.23-16.40.26:358][123]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-16.40.26:407][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/CaveLevel/Cave" FILE="D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.23-16.40.26:436][123]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.23-16.40.26:581][123]LogSavePackage: Moving output files for package: /Game/_Main/CaveLevel/Cave
+[2024.05.23-16.40.26:582][123]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/CaveDED2D862475038E7AE6B6C9A7AE6985C.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap'
+[2024.05.23-16.40.26:602][123]LogFileHelpers: Saving map 'Cave' took 0.195
+[2024.05.23-16.40.26:611][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3" FILE="D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3.uasset" SILENT=true
+[2024.05.23-16.40.26:627][123]LogSavePackage: Moving output files for package: /Game/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3
+[2024.05.23-16.40.26:628][123]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/ABPNUN348EE44E14412A7E8830C5CA67076C231.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3.uasset'
+[2024.05.23-16.40.26:636][123]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3" FILE="D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3.uasset" SILENT=true
+[2024.05.23-16.40.26:645][123]LogSavePackage: Moving output files for package: /Game/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3
+[2024.05.23-16.40.26:646][123]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/BPNUN30B83165949D2AE750D47A79717782743.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3.uasset'
+[2024.05.23-16.40.26:658][123]LogFileHelpers: InternalPromptForCheckoutAndSave took 299 ms (total: 13.4 sec)
+[2024.05.23-16.40.26:668][123]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.23-16.40.26:668][123]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Main/ConventCharacters/NunNPC/Nun2/BPNUN3.BPNUN3
+[2024.05.23-16.40.26:668][123]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Main/CaveLevel/Cave.Cave
+[2024.05.23-16.40.26:668][123]LogContentValidation: Display: Validating /Script/Engine.AnimBlueprint /Game/_Main/ConventCharacters/NunNPC/Nun2/ABPNUN3.ABPNUN3
+[2024.05.23-16.40.28:175][197]LogSlate: Window 'Cave' being destroyed
+[2024.05.23-16.40.28:180][197]LogSlate: Window 'Cave' being destroyed
+[2024.05.23-16.40.28:213][197]LogWorld: UWorld::CleanupWorld for World_116, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.40.28:213][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.40.28:361][197]LogWorld: UWorld::CleanupWorld for World_117, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.40.28:361][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.40.28:385][197]LogWorld: UWorld::CleanupWorld for World_118, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.40.28:386][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.40.28:536][197]LogWorld: UWorld::CleanupWorld for World_119, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.40.28:536][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.40.28:560][197]LogWorld: UWorld::CleanupWorld for World_122, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.40.28:561][197]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.40.29:818][269]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.23-16.40.29:830][269]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.23-16.40.29:830][269]PIE: New page: PIE session: Cave (23 May 2024, 18:40:29)
+[2024.05.23-16.40.29:830][269]LogPlayLevel: Creating play world package: /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.40.29:873][269]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041510s)
+[2024.05.23-16.40.29:873][269]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/CaveLevel/Cave.Cave to /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave (0.041554s)
+[2024.05.23-16.40.29:873][269]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-16.40.29:873][269]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-16.40.29:873][269]LogAIModule: Creating AISystem for world Cave
+[2024.05.23-16.40.29:874][269]LogPlayLevel: PIE: World Init took: (0.001269s)
+[2024.05.23-16.40.29:905][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.05.23-16.40.29:911][269]LogAudio: Display: Creating Audio Device:                 Id: 38, Scope: Unique, Realtime: True
+[2024.05.23-16.40.29:911][269]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.23-16.40.29:911][269]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.23-16.40.29:911][269]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.23-16.40.29:911][269]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.23-16.40.29:911][269]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.23-16.40.29:911][269]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.23-16.40.29:911][269]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.23-16.40.29:911][269]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.23-16.40.29:912][269]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.23-16.40.29:912][269]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.23-16.40.29:912][269]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.23-16.40.29:914][269]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.23-16.40.29:929][269]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.05.23-16.40.29:929][269]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.23-16.40.29:929][269]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.23-16.40.29:929][269]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.23-16.40.29:930][269]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=38
+[2024.05.23-16.40.29:930][269]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=38
+[2024.05.23-16.40.29:932][269]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=38
+[2024.05.23-16.40.29:932][269]LogInit: FAudioDevice initialized with ID 38.
+[2024.05.23-16.40.29:932][269]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=38
+[2024.05.23-16.40.29:932][269]LogAudio: Display: Audio Device (ID: 38) registered with world 'Cave'.
+[2024.05.23-16.40.29:932][269]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 38
+[2024.05.23-16.40.29:936][269]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-16.40.29:966][269]LogWorld: Bringing World /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2024.05.23-17.40.29
+[2024.05.23-16.40.29:968][269]LogWorld: Bringing up level for play took: 0.031541
+[2024.05.23-16.40.29:970][269]LogOnline: OSS: Created online subsystem instance for: :Context_152
+[2024.05.23-16.40.29:974][269]PIE: Server logged in
+[2024.05.23-16.40.29:975][269]PIE: Play in editor total start time 0.144 seconds.
+[2024.05.23-16.40.30:105][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.30:106][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.30:106][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.30:107][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.30:107][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.30:107][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.30:113][269]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.31:640][361]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.38:933][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-16.40.38:933][817]LogWorld: BeginTearingDown for /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-16.40.38:934][817]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-16.40.38:938][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.40.38:944][817]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.23-16.40.38:952][817]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-16.40.38:983][817]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-16.40.38:983][817]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 38
+[2024.05.23-16.40.38:983][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.05.23-16.40.38:985][817]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=38
+[2024.05.23-16.40.39:000][817]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.05.23-16.40.39:044][817]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.39:045][817]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.39:045][817]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.39:046][817]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.39:046][817]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.39:046][817]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.39:050][817]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-16.40.39:070][818]LogPlayLevel: Display: Destroying online subsystem :Context_152
