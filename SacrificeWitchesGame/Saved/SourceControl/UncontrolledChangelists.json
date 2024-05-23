@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/2306391/Documents/GitHub/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/NoteCardDisplay.uasset",
+				"C:/Users/2306391/Documents/GitHub/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/Interaction/WBP_Interaction.uasset",
 				"C:/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/SpikesEnding/BP_SpikesTrap.uasset",
 				"C:/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/SpikesEnding/SpikeTrap_Idle.uasset",
 				"C:/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/SpikesEnding/ABP_SpikeTrap.uasset",
