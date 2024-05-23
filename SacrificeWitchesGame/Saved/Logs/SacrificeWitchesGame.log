@@ -7854,3 +7854,543 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.23-14.35.08:759][418]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
 [2024.05.23-14.35.08:759][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.05.23-14.39.56:203][425]LogDerivedDataCache: C:/Users/2226549/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:14.158 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7458 files in 9503 folders with total size 174 MiB.
+[2024.05.23-14.41.08:369][148]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Assets/Scroll/scrollfloat.scrollfloat
+[2024.05.23-14.41.08:369][148]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.41.08:369][148]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.41.12:255][360]LogViewport: Scene viewport resized to 738x365, mode Windowed.
+[2024.05.23-14.41.32:753][409]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Blueprints/Interaction/WBP_Interaction.WBP_Interaction
+[2024.05.23-14.41.32:753][409]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.41.32:753][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.41.32:778][409]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.41.32:778][409]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.41.49:875][404]LogTexture: Display: Building textures: /Game/_Main/Blueprints/Interaction/cbutton.cbutton (TFO_AutoDXT, 1920x1920 x1x1x1) (Required Memory Estimate: 260.6875 MB), EncodeSpeed: Fast
+[2024.05.23-14.41.51:525][498]LogSlate: Took 0.005601 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2024.05.23-14.41.57:142][813]LogTexture: Display: Building textures: /Game/_Main/Blueprints/Interaction/collectbutton.collectbutton (BGRA8, 1028x138 x1x1x1) (Required Memory Estimate: 4.211456 MB), EncodeSpeed: Fast
+[2024.05.23-14.42.37:504][109]LogTexture: Display: Building textures: /Game/_Main/Blueprints/Interaction/interract_button.interract_button (BGRA8, 1028x138 x1x1x1) (Required Memory Estimate: 4.211456 MB), EncodeSpeed: Fast
+[2024.05.23-14.42.45:855][571]LogTexture: Display: Building textures: /Game/_Main/Blueprints/Interaction/ebutton.ebutton (TFO_AutoDXT, 1920x1920 x1x1x1) (Required Memory Estimate: 260.6875 MB), EncodeSpeed: Fast
+[2024.05.23-14.43.34:691][400]BlueprintLog: New page: Compile WBP_Interaction
+[2024.05.23-14.43.34:757][400]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.05.23-14.45.04:873][877]LogMetaData: Removing '/Game/_Main/Assets/Scroll/WBP_Interaction.WBP_Interaction_C' ref from Metadata '/Game/_Main/Blueprints/Interaction/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.45.04:873][877]LogMetaData: Removing '/Game/_Main/Assets/Scroll/WBP_Interaction.WBP_Interaction:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Main/Blueprints/Interaction/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.45.04:873][877]LogMetaData: Removing '/Game/_Main/Assets/Scroll/WBP_Interaction.WBP_Interaction:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Main/Blueprints/Interaction/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.45.04:873][877]LogMetaData: Removing '/Game/_Main/Assets/Scroll/WBP_Interaction.WBP_Interaction:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Main/Blueprints/Interaction/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.45.04:873][877]LogMetaData: Removing '/Game/_Main/Assets/Scroll/WBP_Interaction.SKEL_WBP_Interaction_C' ref from Metadata '/Game/_Main/Blueprints/Interaction/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.45.04:873][877]LogMetaData: Removing '/Game/_Main/Assets/Scroll/WBP_Interaction.SKEL_WBP_Interaction_C:PreConstruct' ref from Metadata '/Game/_Main/Blueprints/Interaction/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.45.04:873][877]LogMetaData: Removing '/Game/_Main/Assets/Scroll/WBP_Interaction.SKEL_WBP_Interaction_C:Construct' ref from Metadata '/Game/_Main/Blueprints/Interaction/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.45.04:873][877]LogMetaData: Removing '/Game/_Main/Assets/Scroll/WBP_Interaction.SKEL_WBP_Interaction_C:Tick' ref from Metadata '/Game/_Main/Blueprints/Interaction/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.45.04:905][877]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.45.04:956][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_NoteMaker" FILE="D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/BP_NoteMaker.uasset" SILENT=true
+[2024.05.23-14.45.04:969][877]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_NoteMaker
+[2024.05.23-14.45.04:970][877]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/BP_NoteMakerAAC1CE8C471CFF183F8B31A4EDCA2379.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/BP_NoteMaker.uasset'
+[2024.05.23-14.45.04:974][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Assets/Scroll/WBP_Interaction" FILE="D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Scroll/WBP_Interaction.uasset" SILENT=true
+[2024.05.23-14.45.04:978][877]LogSavePackage: Moving output files for package: /Game/_Main/Assets/Scroll/WBP_Interaction
+[2024.05.23-14.45.04:978][877]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/WBP_Interaction82491D284DCC3AD73110D7847EB423E0.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Scroll/WBP_Interaction.uasset'
+[2024.05.23-14.45.04:995][877]LogFileHelpers: InternalPromptForCheckoutAndSave took 90 ms (total: 10.6 sec)
+[2024.05.23-14.45.05:064][877]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2024.05.23-14.45.05:096][877]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.05.23-14.45.05:123][877]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.05.23-14.45.05:154][877]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.23-14.45.05:154][877]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Main/Assets/Scroll/WBP_Interaction.WBP_Interaction
+[2024.05.23-14.45.05:154][877]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Main/Blueprints/BP_NoteMaker.BP_NoteMaker
+[2024.05.23-14.45.49:699][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.05.23-14.45.50:201][835]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AssetsvilleTown/Maps/DemonstrationACTUAL_Auto8
+[2024.05.23-14.45.50:201][835]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/DemonstrationACTUAL_Auto82B90B798494CDFDD742CCFA652EF12EF.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/Autosaves/Game/AssetsvilleTown/Maps/DemonstrationACTUAL_Auto8.umap'
+[2024.05.23-14.45.50:215][835]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/AssetsvilleTown/Maps/DemonstrationACTUAL' took 0.546
+[2024.05.23-14.45.50:215][835]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.546
+[2024.05.23-14.45.50:216][835]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Main/Assets/Scroll/scrollfloat] ([2] browsable assets)...
+[2024.05.23-14.45.50:223][835]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/_Main/Assets/Scroll/scrollfloat.scrollfloat]
+[2024.05.23-14.45.50:223][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Assets/Scroll/scrollfloat]
+[2024.05.23-14.45.50:242][835]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Assets/Scroll/scrollfloat_Auto8
+[2024.05.23-14.45.50:242][835]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/scrollfloat_Auto8BD1AB312417C1210B646029290E66971.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/Autosaves/Game/_Main/Assets/Scroll/scrollfloat_Auto8.uasset'
+[2024.05.23-14.45.50:243][835]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/_Main/Assets/Scroll/ScrollDisplay] ([2] browsable assets)...
+[2024.05.23-14.45.50:246][835]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/_Main/Assets/Scroll/ScrollDisplay.ScrollDisplay]
+[2024.05.23-14.45.50:246][835]OBJ SavePackage: Finished generating thumbnails for package [/Game/_Main/Assets/Scroll/ScrollDisplay]
+[2024.05.23-14.45.50:256][835]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_Main/Assets/Scroll/ScrollDisplay_Auto8
+[2024.05.23-14.45.50:256][835]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/ScrollDisplay_Auto8E571FCEB440BA978A7A3D59F2CE6893B.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/Autosaves/Game/_Main/Assets/Scroll/ScrollDisplay_Auto8.uasset'
+[2024.05.23-14.45.50:257][835]LogFileHelpers: Auto-saving content packages took 0.042
+[2024.05.23-14.45.53:810][  3]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/_Main/Assets/Scroll/WBP_Interaction2.WBP_Interaction2
+[2024.05.23-14.45.53:810][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.45.53:810][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.45.53:835][  3]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.45.53:836][  3]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.46.03:761][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2024.05.23-14.46.05:288][540]LogSlate: Window 'Delete Assets' being destroyed
+[2024.05.23-14.46.05:437][540]LogWorld: UWorld::CleanupWorld for World_69, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-14.46.05:437][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.46.05:452][540]LogWorld: UWorld::CleanupWorld for World_68, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-14.46.05:452][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.46.05:513][540]LogWorld: UWorld::CleanupWorld for World_64, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-14.46.05:514][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.46.05:571][540]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/_Main/Assets/Scroll/WBP_Interaction2.WBP_Interaction2
+	Asset Type: WidgetBlueprint
+[2024.05.23-14.46.06:574][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.05.23-14.46.06:607][540]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.05.23-14.46.06:635][540]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.23-14.46.32:495][948]LogMetaData: Removing '/Game/_Main/Blueprints/Interaction/WBP_Interaction.WBP_Interaction_C' ref from Metadata '/Game/_Main/Assets/Scroll/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.46.32:495][948]LogMetaData: Removing '/Game/_Main/Blueprints/Interaction/WBP_Interaction.SKEL_WBP_Interaction_C' ref from Metadata '/Game/_Main/Assets/Scroll/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.46.32:495][948]LogMetaData: Removing '/Game/_Main/Blueprints/Interaction/WBP_Interaction.SKEL_WBP_Interaction_C:PreConstruct' ref from Metadata '/Game/_Main/Assets/Scroll/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.46.32:495][948]LogMetaData: Removing '/Game/_Main/Blueprints/Interaction/WBP_Interaction.SKEL_WBP_Interaction_C:Construct' ref from Metadata '/Game/_Main/Assets/Scroll/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.46.32:495][948]LogMetaData: Removing '/Game/_Main/Blueprints/Interaction/WBP_Interaction.SKEL_WBP_Interaction_C:Tick' ref from Metadata '/Game/_Main/Assets/Scroll/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.46.32:495][948]LogMetaData: Removing '/Game/_Main/Blueprints/Interaction/WBP_Interaction.WBP_Interaction:EventGraph.K2Node_Event_0' ref from Metadata '/Game/_Main/Assets/Scroll/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.46.32:495][948]LogMetaData: Removing '/Game/_Main/Blueprints/Interaction/WBP_Interaction.WBP_Interaction:EventGraph.K2Node_Event_1' ref from Metadata '/Game/_Main/Assets/Scroll/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.46.32:495][948]LogMetaData: Removing '/Game/_Main/Blueprints/Interaction/WBP_Interaction.WBP_Interaction:EventGraph.K2Node_Event_2' ref from Metadata '/Game/_Main/Assets/Scroll/WBP_Interaction.PackageMetaData'
+[2024.05.23-14.46.32:523][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.46.32:581][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/BP_NoteMaker" FILE="D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/BP_NoteMaker.uasset" SILENT=true
+[2024.05.23-14.46.32:594][948]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/BP_NoteMaker
+[2024.05.23-14.46.32:595][948]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/BP_NoteMakerA19BF95D495E04E0764825B43B73C3EE.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/BP_NoteMaker.uasset'
+[2024.05.23-14.46.32:597][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Blueprints/Interaction/WBP_Interaction" FILE="D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/Interaction/WBP_Interaction.uasset" SILENT=true
+[2024.05.23-14.46.32:601][948]LogSavePackage: Moving output files for package: /Game/_Main/Blueprints/Interaction/WBP_Interaction
+[2024.05.23-14.46.32:601][948]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/WBP_InteractionD8063B9D4CCAE41D2F7584A2409FBA0C.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Blueprints/Interaction/WBP_Interaction.uasset'
+[2024.05.23-14.46.32:618][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 94 ms (total: 10.7 sec)
+[2024.05.23-14.46.32:664][948]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.05.23-14.46.32:697][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.05.23-14.46.32:725][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.23-14.46.32:755][948]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.23-14.46.32:755][948]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Main/Blueprints/Interaction/WBP_Interaction.WBP_Interaction
+[2024.05.23-14.46.32:755][948]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Main/Blueprints/BP_NoteMaker.BP_NoteMaker
+[2024.05.23-14.47.22:453][757]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.05.23-14.47.29:572][136]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Main/Assets/Scroll/scrollfloat.scrollfloat
+[2024.05.23-14.47.29:572][136]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.47.29:573][136]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.47.31:080][213]BlueprintLog: New page: Compile scrollfloat
+[2024.05.23-14.47.31:088][213]LogBlueprint: Error: [AssetLog] D:\2226549\WitchesGame\SacrificeWitchesGame\Content\_Main\Assets\Scroll\scrollfloat.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.05.23-14.47.31:089][213]LogBlueprint: Error: [AssetLog] D:\2226549\WitchesGame\SacrificeWitchesGame\Content\_Main\Assets\Scroll\scrollfloat.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2024.05.23-14.47.31:149][213]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2024.05.23-14.47.31:270][213]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.47.36:466][517]LogViewport: Scene viewport resized to 738x365, mode Windowed.
+[2024.05.23-14.49.20:809][162]BlueprintLog: New page: Compile scrollfloat
+[2024.05.23-14.49.20:929][162]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2024.05.23-14.49.21:071][162]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.23:884][325]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.23-14.49.23:897][325]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.23-14.49.23:897][325]LogPlayLevel: [PlayLevel] Compiling BP_NoteMaker before play...
+[2024.05.23-14.49.23:971][325]LogPlayLevel: [PlayLevel] Compiling ScrollDisplay before play...
+[2024.05.23-14.49.24:026][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2024.05.23-14.49.24:029][325]LogPlayLevel: PlayLevel: Blueprint regeneration took 132 ms (2 blueprints)
+[2024.05.23-14.49.24:029][325]PIE: New page: PIE session: DemonstrationACTUAL (23 May 2024, 16:49:24)
+[2024.05.23-14.49.24:029][325]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL
+[2024.05.23-14.49.24:201][325]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171205s)
+[2024.05.23-14.49.24:201][325]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/DemonstrationACTUAL.DemonstrationACTUAL to /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL.DemonstrationACTUAL (0.171252s)
+[2024.05.23-14.49.24:201][325]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.49.24:201][325]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.49.24:202][325]LogAIModule: Creating AISystem for world DemonstrationACTUAL
+[2024.05.23-14.49.24:203][325]LogPlayLevel: PIE: World Init took: (0.002027s)
+[2024.05.23-14.49.24:232][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2024.05.23-14.49.24:234][325]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.05.23-14.49.24:234][325]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.23-14.49.24:234][325]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.23-14.49.24:234][325]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.23-14.49.24:234][325]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.23-14.49.24:234][325]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.23-14.49.24:235][325]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.23-14.49.24:235][325]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.23-14.49.24:235][325]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.23-14.49.24:235][325]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.23-14.49.24:235][325]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.23-14.49.24:235][325]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.23-14.49.24:237][325]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.23-14.49.24:254][325]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.05.23-14.49.24:254][325]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.23-14.49.24:254][325]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.23-14.49.24:254][325]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.23-14.49.24:254][325]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.05.23-14.49.24:254][325]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.05.23-14.49.24:257][325]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.05.23-14.49.24:257][325]LogInit: FAudioDevice initialized with ID 21.
+[2024.05.23-14.49.24:257][325]LogAudio: Display: Audio Device (ID: 21) registered with world 'DemonstrationACTUAL'.
+[2024.05.23-14.49.24:257][325]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.05.23-14.49.24:257][325]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.05.23-14.49.24:262][325]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-14.49.24:382][325]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL.DemonstrationACTUAL up for play (max tick rate 0) at 2024.05.23-15.49.24
+[2024.05.23-14.49.24:386][325]LogWorld: Bringing up level for play took: 0.123330
+[2024.05.23-14.49.24:388][325]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2024.05.23-14.49.24:394][325]PIE: Server logged in
+[2024.05.23-14.49.24:394][325]PIE: Play in editor total start time 0.499 seconds.
+[2024.05.23-14.49.24:465][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.24:465][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.24:466][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.24:466][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.24:467][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.24:467][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.24:468][325]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.37:147][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-14.49.37:147][ 59]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL
+[2024.05.23-14.49.37:149][ 59]LogWorld: UWorld::CleanupWorld for DemonstrationACTUAL, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-14.49.37:163][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.49.37:171][ 59]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.23-14.49.37:181][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.49.37:210][ 59]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-14.49.37:222][ 59]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.05.23-14.49.37:222][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.05.23-14.49.37:224][ 59]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.05.23-14.49.37:254][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2024.05.23-14.49.37:320][ 59]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.37:320][ 59]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.37:321][ 59]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.37:321][ 59]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.37:322][ 59]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.37:322][ 59]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.37:323][ 59]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.37:332][ 60]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2024.05.23-14.49.51:402][922]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.51:402][922]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.51:403][922]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.51:403][922]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.51:403][922]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.51:404][922]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.52:357][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.23-14.49.52:357][978]PIE: New page: PIE session: DemonstrationACTUAL (23 May 2024, 16:49:52)
+[2024.05.23-14.49.52:357][978]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL
+[2024.05.23-14.49.52:529][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.171200s)
+[2024.05.23-14.49.52:529][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/DemonstrationACTUAL.DemonstrationACTUAL to /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL.DemonstrationACTUAL (0.171250s)
+[2024.05.23-14.49.52:529][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.49.52:529][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.49.52:529][978]LogAIModule: Creating AISystem for world DemonstrationACTUAL
+[2024.05.23-14.49.52:531][978]LogPlayLevel: PIE: World Init took: (0.001973s)
+[2024.05.23-14.49.52:560][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.05.23-14.49.52:565][978]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.05.23-14.49.52:565][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.23-14.49.52:565][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.23-14.49.52:565][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.23-14.49.52:565][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.23-14.49.52:565][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.23-14.49.52:565][978]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.23-14.49.52:565][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.23-14.49.52:565][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.23-14.49.52:565][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.23-14.49.52:565][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.23-14.49.52:565][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.23-14.49.52:567][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.23-14.49.52:582][978]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.05.23-14.49.52:582][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.23-14.49.52:582][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.23-14.49.52:582][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.23-14.49.52:582][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.05.23-14.49.52:582][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.05.23-14.49.52:584][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.05.23-14.49.52:584][978]LogInit: FAudioDevice initialized with ID 22.
+[2024.05.23-14.49.52:584][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.05.23-14.49.52:584][978]LogAudio: Display: Audio Device (ID: 22) registered with world 'DemonstrationACTUAL'.
+[2024.05.23-14.49.52:584][978]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.05.23-14.49.52:590][978]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-14.49.52:706][978]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL.DemonstrationACTUAL up for play (max tick rate 0) at 2024.05.23-15.49.52
+[2024.05.23-14.49.52:710][978]LogWorld: Bringing up level for play took: 0.120769
+[2024.05.23-14.49.52:713][978]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2024.05.23-14.49.52:719][978]PIE: Server logged in
+[2024.05.23-14.49.52:720][978]PIE: Play in editor total start time 0.362 seconds.
+[2024.05.23-14.49.52:803][978]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.52:803][978]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.52:803][978]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.52:803][978]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.52:803][978]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.52:803][978]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.49.52:804][978]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.51.53:976][837]LogNet: Browse: /Game/_Main/CaveLevel/Cave
+[2024.05.23-14.51.53:976][837]LogLoad: LoadMap: /Game/_Main/CaveLevel/Cave
+[2024.05.23-14.51.53:976][837]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL
+[2024.05.23-14.51.53:979][837]LogWorld: UWorld::CleanupWorld for DemonstrationACTUAL, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-14.51.53:991][837]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.51.54:076][837]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.23-14.51.54:103][837]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.05.23-14.51.54:198][837]LogAudio: Display: Audio Device (ID: 22) registered with world 'Cave'.
+[2024.05.23-14.51.54:198][837]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.51.54:198][837]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.51.54:198][837]LogAIModule: Creating AISystem for world Cave
+[2024.05.23-14.51.54:199][837]LogPlayLevel: PIE: World Init took: (0.001180s)
+[2024.05.23-14.51.54:199][837]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-14.51.54:229][837]LogWorld: Bringing World /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave up for play (max tick rate 0) at 2024.05.23-15.51.54
+[2024.05.23-14.51.54:230][837]LogWorld: Bringing up level for play took: 0.030607
+[2024.05.23-14.51.54:234][837]LogLoad: Took 0.257475 seconds to LoadMap(/Game/_Main/CaveLevel/Cave)
+[2024.05.23-14.51.54:257][837]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.51.54:258][837]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.51.54:258][837]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.51.54:258][837]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.51.54:259][837]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.51.54:259][837]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.51.54:260][837]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.04:617][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-14.52.04:617][648]LogWorld: BeginTearingDown for /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.23-14.52.04:618][648]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-14.52.04:623][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.52.04:628][648]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.23-14.52.04:637][648]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.52.04:663][648]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-14.52.04:668][648]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.05.23-14.52.04:668][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.05.23-14.52.04:670][648]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.05.23-14.52.04:687][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2024.05.23-14.52.04:754][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.04:754][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.04:754][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.04:756][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.04:756][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.04:757][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.04:758][648]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.04:777][649]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2024.05.23-14.52.15:820][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.15:820][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.15:821][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.15:821][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.15:821][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.52.15:822][330]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.10:443][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.10:444][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.10:444][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.10:445][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.10:445][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.10:446][607]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.11:161][658]Cmd: DELETE
+[2024.05.23-14.53.11:161][658]Cmd: ACTOR DELETE
+[2024.05.23-14.53.11:217][658]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.05.23-14.53.11:267][658]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2024.05.23-14.53.11:273][658]LogEditorActor: Deleted 1 Actors (0.112 secs)
+[2024.05.23-14.53.11:286][658]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.18:683][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.18:684][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.18:684][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.18:684][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.18:686][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.18:686][209]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.44:473][905]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.44:473][905]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.44:474][905]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.44:474][905]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.44:475][905]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.44:475][905]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.45:341][952]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.23-14.53.45:341][952]PIE: New page: PIE session: DemonstrationACTUAL (23 May 2024, 16:53:45)
+[2024.05.23-14.53.45:342][952]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL
+[2024.05.23-14.53.45:517][952]LogPlayLevel: PIE: StaticDuplicateObject took: (0.176266s)
+[2024.05.23-14.53.45:517][952]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/DemonstrationACTUAL.DemonstrationACTUAL to /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL.DemonstrationACTUAL (0.176313s)
+[2024.05.23-14.53.45:517][952]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.53.45:517][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.53.45:518][952]LogAIModule: Creating AISystem for world DemonstrationACTUAL
+[2024.05.23-14.53.45:519][952]LogPlayLevel: PIE: World Init took: (0.002048s)
+[2024.05.23-14.53.45:548][952]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.05.23-14.53.45:552][952]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.05.23-14.53.45:552][952]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.23-14.53.45:552][952]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.23-14.53.45:552][952]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.23-14.53.45:552][952]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.23-14.53.45:552][952]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.23-14.53.45:552][952]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.23-14.53.45:552][952]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.23-14.53.45:552][952]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.23-14.53.45:553][952]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.23-14.53.45:553][952]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.23-14.53.45:553][952]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.23-14.53.45:556][952]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.23-14.53.45:571][952]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.05.23-14.53.45:572][952]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.23-14.53.45:572][952]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.23-14.53.45:572][952]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.23-14.53.45:572][952]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.05.23-14.53.45:572][952]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.05.23-14.53.45:575][952]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.05.23-14.53.45:575][952]LogInit: FAudioDevice initialized with ID 23.
+[2024.05.23-14.53.45:575][952]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.05.23-14.53.45:575][952]LogAudio: Display: Audio Device (ID: 23) registered with world 'DemonstrationACTUAL'.
+[2024.05.23-14.53.45:575][952]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.05.23-14.53.45:579][952]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-14.53.45:701][952]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL.DemonstrationACTUAL up for play (max tick rate 0) at 2024.05.23-15.53.45
+[2024.05.23-14.53.45:705][952]LogWorld: Bringing up level for play took: 0.124186
+[2024.05.23-14.53.45:707][952]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2024.05.23-14.53.45:713][952]PIE: Server logged in
+[2024.05.23-14.53.45:714][952]PIE: Play in editor total start time 0.373 seconds.
+[2024.05.23-14.53.45:783][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.45:783][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.45:784][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.45:784][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.45:784][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.45:785][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.45:786][952]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.55:447][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-14.53.55:447][559]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL
+[2024.05.23-14.53.55:450][559]LogWorld: UWorld::CleanupWorld for DemonstrationACTUAL, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-14.53.55:464][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.53.55:473][559]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.23-14.53.55:482][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.53.55:523][559]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.23-14.53.55:524][559]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.05.23-14.53.55:524][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.05.23-14.53.55:526][559]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.05.23-14.53.55:530][559]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-14.53.55:557][559]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.05.23-14.53.55:616][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.55:616][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.55:617][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.55:617][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.55:618][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.55:618][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.55:619][559]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.55:639][560]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2024.05.23-14.53.59:420][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.59:420][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.59:421][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.59:421][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.59:422][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.53.59:422][804]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.04:736][155]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.05.23-14.54.04:751][155]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.23-14.54.04:751][155]PIE: New page: PIE session: DemonstrationACTUAL (23 May 2024, 16:54:04)
+[2024.05.23-14.54.04:777][155]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL
+[2024.05.23-14.54.04:951][155]LogPlayLevel: PIE: StaticDuplicateObject took: (0.174074s)
+[2024.05.23-14.54.04:951][155]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/DemonstrationACTUAL.DemonstrationACTUAL to /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL.DemonstrationACTUAL (0.174128s)
+[2024.05.23-14.54.04:951][155]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.54.04:951][155]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.54.04:952][155]LogAIModule: Creating AISystem for world DemonstrationACTUAL
+[2024.05.23-14.54.04:953][155]LogPlayLevel: PIE: World Init took: (0.001974s)
+[2024.05.23-14.54.04:983][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.05.23-14.54.04:986][155]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.05.23-14.54.04:986][155]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.23-14.54.04:986][155]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.23-14.54.04:986][155]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.23-14.54.04:986][155]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.23-14.54.04:986][155]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.23-14.54.04:986][155]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.23-14.54.04:986][155]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.23-14.54.04:986][155]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.23-14.54.04:987][155]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.23-14.54.04:987][155]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.23-14.54.04:987][155]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.23-14.54.04:989][155]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.23-14.54.05:004][155]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.05.23-14.54.05:004][155]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.23-14.54.05:004][155]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.23-14.54.05:004][155]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.23-14.54.05:005][155]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.05.23-14.54.05:005][155]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.05.23-14.54.05:007][155]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.05.23-14.54.05:007][155]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.05.23-14.54.05:007][155]LogInit: FAudioDevice initialized with ID 24.
+[2024.05.23-14.54.05:007][155]LogAudio: Display: Audio Device (ID: 24) registered with world 'DemonstrationACTUAL'.
+[2024.05.23-14.54.05:007][155]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 24
+[2024.05.23-14.54.05:012][155]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-14.54.05:132][155]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL.DemonstrationACTUAL up for play (max tick rate 0) at 2024.05.23-15.54.05
+[2024.05.23-14.54.05:137][155]LogWorld: Bringing up level for play took: 0.123577
+[2024.05.23-14.54.05:139][155]LogOnline: OSS: Created online subsystem instance for: :Context_89
+[2024.05.23-14.54.05:145][155]PIE: Server logged in
+[2024.05.23-14.54.05:145][155]PIE: Play in editor total start time 0.394 seconds.
+[2024.05.23-14.54.05:213][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.05:213][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.05:214][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.05:214][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.05:214][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.05:215][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.05:216][155]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.06:907][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-14.54.06:907][270]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL
+[2024.05.23-14.54.06:909][270]LogWorld: UWorld::CleanupWorld for DemonstrationACTUAL, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-14.54.06:924][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.54.06:932][270]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.23-14.54.06:942][270]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.54.06:986][270]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.23-14.54.06:986][270]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 24
+[2024.05.23-14.54.06:986][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.05.23-14.54.06:988][270]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.05.23-14.54.06:992][270]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-14.54.07:018][270]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.05.23-14.54.07:078][270]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.07:078][270]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.07:079][270]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.07:079][270]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.07:080][270]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.07:080][270]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.07:081][270]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.07:091][271]LogPlayLevel: Display: Destroying online subsystem :Context_89
+[2024.05.23-14.54.14:908][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.14:909][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.14:909][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.14:909][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.14:910][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.14:910][763]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.15:643][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.05.23-14.54.15:643][810]PIE: New page: PIE session: DemonstrationACTUAL (23 May 2024, 16:54:15)
+[2024.05.23-14.54.15:676][810]LogPlayLevel: Creating play world package: /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL
+[2024.05.23-14.54.15:854][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.178445s)
+[2024.05.23-14.54.15:854][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/AssetsvilleTown/Maps/DemonstrationACTUAL.DemonstrationACTUAL to /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL.DemonstrationACTUAL (0.178495s)
+[2024.05.23-14.54.15:854][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.23-14.54.15:854][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.23-14.54.15:856][810]LogAIModule: Creating AISystem for world DemonstrationACTUAL
+[2024.05.23-14.54.15:857][810]LogPlayLevel: PIE: World Init took: (0.002089s)
+[2024.05.23-14.54.15:888][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.05.23-14.54.15:892][810]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2024.05.23-14.54.15:892][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.23-14.54.15:892][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.23-14.54.15:892][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.23-14.54.15:892][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.23-14.54.15:892][810]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.23-14.54.15:892][810]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.23-14.54.15:892][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.23-14.54.15:892][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.23-14.54.15:893][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.23-14.54.15:893][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.23-14.54.15:893][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.23-14.54.15:896][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.23-14.54.15:910][810]LogAudioMixer: Display: Using Audio Hardware Device Speakers / Headphones (Realtek Audio)
+[2024.05.23-14.54.15:910][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.23-14.54.15:910][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.23-14.54.15:910][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.23-14.54.15:910][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=25
+[2024.05.23-14.54.15:910][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=25
+[2024.05.23-14.54.15:913][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=25
+[2024.05.23-14.54.15:913][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=25
+[2024.05.23-14.54.15:913][810]LogInit: FAudioDevice initialized with ID 25.
+[2024.05.23-14.54.15:913][810]LogAudio: Display: Audio Device (ID: 25) registered with world 'DemonstrationACTUAL'.
+[2024.05.23-14.54.15:913][810]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 25
+[2024.05.23-14.54.15:917][810]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.23-14.54.16:036][810]LogWorld: Bringing World /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL.DemonstrationACTUAL up for play (max tick rate 0) at 2024.05.23-15.54.16
+[2024.05.23-14.54.16:040][810]LogWorld: Bringing up level for play took: 0.122443
+[2024.05.23-14.54.16:043][810]LogOnline: OSS: Created online subsystem instance for: :Context_90
+[2024.05.23-14.54.16:049][810]PIE: Server logged in
+[2024.05.23-14.54.16:050][810]PIE: Play in editor total start time 0.407 seconds.
+[2024.05.23-14.54.16:133][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.16:134][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.16:134][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.16:134][810]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.16:142][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.16:142][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.16:142][811]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.28:517][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-14.54.28:517][572]LogWorld: BeginTearingDown for /Game/AssetsvilleTown/Maps/UEDPIE_0_DemonstrationACTUAL
+[2024.05.23-14.54.28:519][572]LogWorld: UWorld::CleanupWorld for DemonstrationACTUAL, bSessionEnded=true, bCleanupResources=true
+[2024.05.23-14.54.28:534][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.54.28:543][572]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.23-14.54.28:554][572]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.23-14.54.28:583][572]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.23-14.54.28:597][572]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 25
+[2024.05.23-14.54.28:597][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.05.23-14.54.28:599][572]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=25
+[2024.05.23-14.54.28:629][572]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2024.05.23-14.54.28:689][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.28:690][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.28:690][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.28:691][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.28:691][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.28:691][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.28:693][572]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.23-14.54.28:712][573]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2024.05.23-14.54.30:273][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2024.05.23-14.54.30:304][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.05.23-14.54.31:203][675]LogSlate: Window 'Save Content' being destroyed
+[2024.05.23-14.54.31:211][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.23-14.54.31:293][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.05.23-14.54.31:769][675]LogSavePackage: Moving output files for package: /Game/AssetsvilleTown/Maps/DemonstrationACTUAL
+[2024.05.23-14.54.31:770][675]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/DemonstrationACTUALE72CA50840DF53ADDEF32196CAEC2F77.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/AssetsvilleTown/Maps/DemonstrationACTUAL.umap'
+[2024.05.23-14.54.31:794][675]LogFileHelpers: Saving map 'DemonstrationACTUAL' took 0.531
+[2024.05.23-14.54.31:797][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Assets/Scroll/ScrollDisplay" FILE="D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Scroll/ScrollDisplay.uasset" SILENT=true
+[2024.05.23-14.54.31:806][675]LogSavePackage: Moving output files for package: /Game/_Main/Assets/Scroll/ScrollDisplay
+[2024.05.23-14.54.31:806][675]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/ScrollDisplay2B6610824CC8BFB19F329280F71F6FB8.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Scroll/ScrollDisplay.uasset'
+[2024.05.23-14.54.31:838][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Assets/Scroll/scrollfloat" FILE="D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Scroll/scrollfloat.uasset" SILENT=true
+[2024.05.23-14.54.31:854][675]LogSavePackage: Moving output files for package: /Game/_Main/Assets/Scroll/scrollfloat
+[2024.05.23-14.54.31:855][675]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/scrollfloatAB5F2A6645AE79EFABF0C3A37FCD475B.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Scroll/scrollfloat.uasset'
+[2024.05.23-14.54.31:859][675]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/Assets/Scroll/WBP_Interaction" FILE="D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Scroll/WBP_Interaction.uasset" SILENT=true
+[2024.05.23-14.54.31:864][675]LogSavePackage: Moving output files for package: /Game/_Main/Assets/Scroll/WBP_Interaction
+[2024.05.23-14.54.31:864][675]LogSavePackage: Moving 'D:/2226549/WitchesGame/SacrificeWitchesGame/Saved/WBP_Interaction1E881A8B4EF928B5A5274B9009EC360A.tmp' to 'D:/2226549/WitchesGame/SacrificeWitchesGame/Content/_Main/Assets/Scroll/WBP_Interaction.uasset'
+[2024.05.23-14.54.31:894][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 683 ms (total: 11.4 sec)
+[2024.05.23-14.54.31:906][675]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.23-14.54.31:906][675]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/_Main/Assets/Scroll/scrollfloat.scrollfloat
+[2024.05.23-14.54.31:906][675]LogContentValidation: Display: Validating /Script/Engine.World /Game/AssetsvilleTown/Maps/DemonstrationACTUAL.DemonstrationACTUAL
+[2024.05.23-14.54.31:906][675]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Main/Assets/Scroll/ScrollDisplay.ScrollDisplay
+[2024.05.23-14.54.31:907][675]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/_Main/Assets/Scroll/WBP_Interaction.WBP_Interaction
