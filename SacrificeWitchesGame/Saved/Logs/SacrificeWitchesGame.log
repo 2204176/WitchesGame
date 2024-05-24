@@ -3711,3 +3711,4 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.24-06.24.12:647][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.05.24-06.24.12:648][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2024.05.24-06.24.12:649][481]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-06.25.05:437][275]LogDerivedDataCache: C:/Users/Amara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:13.153 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 37538 files in 39837 folders with total size 7860 MiB.
