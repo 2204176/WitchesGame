@@ -5514,3 +5514,976 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.05.24-07.46.12:813][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
 [2024.05.24-07.46.12:831][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
 [2024.05.24-07.46.14:524][447]LogSlate: Window 'Save Content' being destroyed
+[2024.05.24-07.47.23:983][434]Cmd: TRANSACTION UNDO
+[2024.05.24-07.47.23:983][434]LogEditorTransaction: Undo Create Pin Link
+[2024.05.24-07.47.24:052][434]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.24:052][434]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.24:052][434]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.25:250][500]Cmd: TRANSACTION UNDO
+[2024.05.24-07.47.25:250][500]LogEditorTransaction: Undo Move Node
+[2024.05.24-07.47.25:272][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.25:272][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.25:272][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.28:650][703]Cmd: TRANSACTION REDO
+[2024.05.24-07.47.28:650][703]LogEditorTransaction: Redo Move Node
+[2024.05.24-07.47.28:700][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.28:701][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.28:701][703]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.29:172][724]Cmd: TRANSACTION REDO
+[2024.05.24-07.47.29:172][724]LogEditorTransaction: Redo Create Pin Link
+[2024.05.24-07.47.29:193][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.29:193][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.29:194][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.47.41:828][481]LogViewport: Scene viewport resized to 1684x810, mode Windowed.
+[2024.05.24-07.47.41:846][482]LogViewport: Scene viewport resized to 1684x804, mode Windowed.
+[2024.05.24-07.47.41:866][483]LogViewport: Scene viewport resized to 1684x798, mode Windowed.
+[2024.05.24-07.47.41:905][485]LogViewport: Scene viewport resized to 1684x783, mode Windowed.
+[2024.05.24-07.47.41:922][486]LogViewport: Scene viewport resized to 1684x776, mode Windowed.
+[2024.05.24-07.47.41:959][488]LogViewport: Scene viewport resized to 1684x755, mode Windowed.
+[2024.05.24-07.47.41:975][489]LogViewport: Scene viewport resized to 1684x748, mode Windowed.
+[2024.05.24-07.47.41:996][490]LogViewport: Scene viewport resized to 1684x743, mode Windowed.
+[2024.05.24-07.47.42:036][492]LogViewport: Scene viewport resized to 1684x737, mode Windowed.
+[2024.05.24-07.47.42:052][493]LogViewport: Scene viewport resized to 1684x735, mode Windowed.
+[2024.05.24-07.47.42:075][494]LogViewport: Scene viewport resized to 1684x728, mode Windowed.
+[2024.05.24-07.47.42:096][495]LogViewport: Scene viewport resized to 1684x722, mode Windowed.
+[2024.05.24-07.47.42:120][496]LogViewport: Scene viewport resized to 1684x714, mode Windowed.
+[2024.05.24-07.47.42:142][497]LogViewport: Scene viewport resized to 1684x704, mode Windowed.
+[2024.05.24-07.47.42:183][499]LogViewport: Scene viewport resized to 1684x696, mode Windowed.
+[2024.05.24-07.47.42:215][501]LogViewport: Scene viewport resized to 1684x689, mode Windowed.
+[2024.05.24-07.47.42:248][503]LogViewport: Scene viewport resized to 1684x681, mode Windowed.
+[2024.05.24-07.47.42:283][505]LogViewport: Scene viewport resized to 1684x674, mode Windowed.
+[2024.05.24-07.47.42:551][521]LogViewport: Scene viewport resized to 1684x680, mode Windowed.
+[2024.05.24-07.47.42:568][522]LogViewport: Scene viewport resized to 1684x685, mode Windowed.
+[2024.05.24-07.47.42:608][524]LogViewport: Scene viewport resized to 1684x696, mode Windowed.
+[2024.05.24-07.47.42:626][525]LogViewport: Scene viewport resized to 1684x701, mode Windowed.
+[2024.05.24-07.47.42:666][527]LogViewport: Scene viewport resized to 1684x706, mode Windowed.
+[2024.05.24-07.47.42:700][529]LogViewport: Scene viewport resized to 1684x710, mode Windowed.
+[2024.05.24-07.47.42:720][530]LogViewport: Scene viewport resized to 1684x714, mode Windowed.
+[2024.05.24-07.47.42:757][532]LogViewport: Scene viewport resized to 1684x716, mode Windowed.
+[2024.05.24-07.47.42:774][533]LogViewport: Scene viewport resized to 1684x717, mode Windowed.
+[2024.05.24-07.47.44:269][622]LogViewport: Scene viewport resized to 1684x708, mode Windowed.
+[2024.05.24-07.47.44:287][623]LogViewport: Scene viewport resized to 1684x701, mode Windowed.
+[2024.05.24-07.47.44:306][624]LogViewport: Scene viewport resized to 1684x689, mode Windowed.
+[2024.05.24-07.47.44:345][626]LogViewport: Scene viewport resized to 1684x670, mode Windowed.
+[2024.05.24-07.47.44:362][627]LogViewport: Scene viewport resized to 1684x664, mode Windowed.
+[2024.05.24-07.47.44:404][629]LogViewport: Scene viewport resized to 1684x654, mode Windowed.
+[2024.05.24-07.47.44:438][631]LogViewport: Scene viewport resized to 1684x640, mode Windowed.
+[2024.05.24-07.47.44:483][633]LogViewport: Scene viewport resized to 1684x616, mode Windowed.
+[2024.05.24-07.47.44:517][635]LogViewport: Scene viewport resized to 1684x584, mode Windowed.
+[2024.05.24-07.47.44:551][637]LogViewport: Scene viewport resized to 1684x542, mode Windowed.
+[2024.05.24-07.47.44:587][639]LogViewport: Scene viewport resized to 1684x497, mode Windowed.
+[2024.05.24-07.47.44:621][641]LogViewport: Scene viewport resized to 1684x479, mode Windowed.
+[2024.05.24-07.47.44:905][658]LogViewport: Scene viewport resized to 1684x484, mode Windowed.
+[2024.05.24-07.47.44:922][659]LogViewport: Scene viewport resized to 1684x489, mode Windowed.
+[2024.05.24-07.47.44:958][661]LogViewport: Scene viewport resized to 1684x501, mode Windowed.
+[2024.05.24-07.47.44:976][662]LogViewport: Scene viewport resized to 1684x508, mode Windowed.
+[2024.05.24-07.47.45:010][664]LogViewport: Scene viewport resized to 1684x519, mode Windowed.
+[2024.05.24-07.47.45:044][666]LogViewport: Scene viewport resized to 1684x527, mode Windowed.
+[2024.05.24-07.47.45:061][667]LogViewport: Scene viewport resized to 1684x530, mode Windowed.
+[2024.05.24-07.47.45:164][673]LogViewport: Scene viewport resized to 1684x535, mode Windowed.
+[2024.05.24-07.47.45:280][680]LogViewport: Scene viewport resized to 1684x527, mode Windowed.
+[2024.05.24-07.47.45:295][681]LogViewport: Scene viewport resized to 1684x519, mode Windowed.
+[2024.05.24-07.47.45:335][683]LogViewport: Scene viewport resized to 1684x511, mode Windowed.
+[2024.05.24-07.47.45:353][684]LogViewport: Scene viewport resized to 1684x509, mode Windowed.
+[2024.05.24-07.47.45:372][685]LogViewport: Scene viewport resized to 1684x507, mode Windowed.
+[2024.05.24-07.47.45:392][686]LogViewport: Scene viewport resized to 1684x504, mode Windowed.
+[2024.05.24-07.47.45:442][689]LogViewport: Scene viewport resized to 1684x501, mode Windowed.
+[2024.05.24-07.47.45:459][690]LogViewport: Scene viewport resized to 1684x500, mode Windowed.
+[2024.05.24-07.47.45:476][691]LogViewport: Scene viewport resized to 1684x499, mode Windowed.
+[2024.05.24-07.49.23:532][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.49.23:532][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.49.23:533][541]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.49.33:738][154]LogSubtitle: Warning: Subtitle has time offset greater than length of sound - clamping
+[2024.05.24-07.49.52:811][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.49.52:812][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.49.52:812][298]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.50.29:187][475]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.50.29:188][475]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.50.29:188][475]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.50.38:291][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.24-07.50.38:317][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.05.24-07.50.39:429][ 20]LogSlate: Window 'Save Content' being destroyed
+[2024.05.24-07.50.39:443][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-07.50.39:507][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/CaveLevel/Cave" FILE="../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.24-07.50.39:526][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.24-07.50.39:624][ 20]LogSavePackage: Moving output files for package: /Game/_Main/CaveLevel/Cave
+[2024.05.24-07.50.39:624][ 20]LogSavePackage: Moving '../../../../../../WitchesGame/SacrificeWitchesGame/Saved/Cave129564B7448A1B05E385CC81FE6D429D.tmp' to '../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap'
+[2024.05.24-07.50.39:631][ 20]LogFileHelpers: Saving map 'Cave' took 0.124
+[2024.05.24-07.50.39:632][ 20]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/LS_END2" FILE="../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset" SILENT=true
+[2024.05.24-07.50.39:640][ 20]LogSavePackage: Moving output files for package: /Game/_Main/LS_END2
+[2024.05.24-07.50.39:641][ 20]LogSavePackage: Moving '../../../../../../WitchesGame/SacrificeWitchesGame/Saved/LS_END2641429AB47B1B5C50209429374654595.tmp' to '../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset'
+[2024.05.24-07.50.39:654][ 20]LogFileHelpers: InternalPromptForCheckoutAndSave took 210 ms (total: 12.7 sec)
+[2024.05.24-07.50.39:658][ 20]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.24-07.50.39:658][ 20]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Main/CaveLevel/Cave.Cave
+[2024.05.24-07.50.39:658][ 20]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/_Main/LS_END2.LS_END2
+[2024.05.24-07.51.29:729][ 10]Cmd: TRANSACTION UNDO
+[2024.05.24-07.51.29:729][ 10]LogEditorTransaction: Undo Move Keys or Sections
+[2024.05.24-07.51.29:782][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.51.29:782][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.51.29:783][ 10]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.51.54:744][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.51.54:744][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.51.54:744][503]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.51.54:977][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.51.54:977][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.51.54:977][517]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.52.06:539][211]LogSubtitle: Warning: Subtitle has time offset greater than length of sound - clamping
+[2024.05.24-07.52.06:572][213]LogSubtitle: Warning: Subtitle has time offset greater than length of sound - clamping
+[2024.05.24-07.52.06:639][217]LogSubtitle: Warning: Subtitle has time offset greater than length of sound - clamping
+[2024.05.24-07.52.06:806][227]LogSubtitle: Warning: Subtitle has time offset greater than length of sound - clamping
+[2024.05.24-07.52.06:923][234]LogSubtitle: Warning: Subtitle has time offset greater than length of sound - clamping
+[2024.05.24-07.52.06:956][236]LogSubtitle: Warning: Subtitle has time offset greater than length of sound - clamping
+[2024.05.24-07.52.06:989][238]LogSubtitle: Warning: Subtitle has time offset greater than length of sound - clamping
+[2024.05.24-07.52.07:022][240]LogSubtitle: Warning: Subtitle has time offset greater than length of sound - clamping
+[2024.05.24-07.54.03:689][229]Cmd: TRANSACTION UNDO
+[2024.05.24-07.54.03:689][229]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.05.24-07.54.03:748][229]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.54.03:748][229]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.54.03:749][229]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.11:713][297]Cmd: TRANSACTION UNDO
+[2024.05.24-07.55.11:713][297]LogEditorTransaction: Undo Resize section
+[2024.05.24-07.55.11:768][297]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.11:768][297]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.11:768][297]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.42:545][129]Cmd: TRANSACTION UNDO
+[2024.05.24-07.55.42:545][129]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.05.24-07.55.42:602][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.42:602][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.42:602][129]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.48:958][500]Cmd: TRANSACTION UNDO
+[2024.05.24-07.55.48:958][500]LogEditorTransaction: Undo Move Elements
+[2024.05.24-07.55.49:003][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.49:003][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.49:003][500]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.50:336][568]LogViewport: Scene viewport resized to 420x236, mode Windowed.
+[2024.05.24-07.55.51:141][614]Cmd: TRANSACTION UNDO
+[2024.05.24-07.55.51:141][614]LogEditorTransaction: Undo Move Elements
+[2024.05.24-07.55.51:189][614]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.51:189][614]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.55.51:189][614]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.25:776][686]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.25:776][686]LogEditorTransaction: Undo Resize section
+[2024.05.24-07.56.25:829][686]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.25:829][686]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.25:829][686]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.26:142][701]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.26:142][701]LogEditorTransaction: Undo Move Keys or Sections
+[2024.05.24-07.56.26:173][701]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.26:173][701]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.26:173][701]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.26:603][724]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.26:603][724]LogEditorTransaction: Undo Move Keys or Sections
+[2024.05.24-07.56.26:626][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.26:626][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.26:627][724]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.26:964][745]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.26:964][745]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.05.24-07.56.26:986][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.26:986][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.26:986][745]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.27:407][771]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.27:407][771]LogEditorTransaction: Undo Move Elements
+[2024.05.24-07.56.27:422][771]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.27:422][771]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.27:423][771]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.27:826][796]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.27:826][796]LogEditorTransaction: Undo Move Elements
+[2024.05.24-07.56.27:840][796]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.27:840][796]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.27:840][796]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.28:861][858]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.28:861][858]LogEditorTransaction: Undo Rotate Elements
+[2024.05.24-07.56.28:874][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.28:874][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.28:874][858]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.29:745][911]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.29:745][911]LogEditorTransaction: Undo Resize section
+[2024.05.24-07.56.29:798][911]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.29:798][911]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.29:798][911]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.30:482][945]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.30:482][945]LogEditorTransaction: Undo Add Animation
+[2024.05.24-07.56.30:504][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.30:504][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.30:504][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.47:175][946]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.47:175][946]LogEditorTransaction: Undo Resize section
+[2024.05.24-07.56.47:223][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.47:223][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.47:224][946]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.48:010][984]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.48:010][984]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.05.24-07.56.48:032][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.48:032][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.48:032][984]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.56:447][484]LogViewport: Scene viewport resized to 420x236, mode Windowed.
+[2024.05.24-07.56.57:683][556]Cmd: TRANSACTION UNDO
+[2024.05.24-07.56.57:683][556]LogEditorTransaction: Undo Rotate Elements
+[2024.05.24-07.56.57:756][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.57:756][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.56.57:756][556]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.04:856][970]Cmd: TRANSACTION UNDO
+[2024.05.24-07.57.04:856][970]LogEditorTransaction: Undo Rotate Elements
+[2024.05.24-07.57.04:900][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.04:901][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.04:901][970]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.14:190][519]Cmd: TRANSACTION UNDO
+[2024.05.24-07.57.14:190][519]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.05.24-07.57.14:240][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.14:241][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.14:241][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.14:614][536]Cmd: TRANSACTION UNDO
+[2024.05.24-07.57.14:614][536]LogEditorTransaction: Undo Rotate Elements
+[2024.05.24-07.57.14:638][536]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.14:639][536]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.14:639][536]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.15:100][563]Cmd: TRANSACTION UNDO
+[2024.05.24-07.57.15:100][563]LogEditorTransaction: Undo Rotate Elements
+[2024.05.24-07.57.15:113][563]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.15:113][563]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.15:113][563]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.20:451][884]Cmd: TRANSACTION UNDO
+[2024.05.24-07.57.20:451][884]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.05.24-07.57.20:506][884]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.20:506][884]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.57.20:506][884]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.58.02:986][421]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-07.58.03:042][421]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/LS_END2" FILE="../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset" SILENT=true
+[2024.05.24-07.58.03:052][421]LogSavePackage: Moving output files for package: /Game/_Main/LS_END2
+[2024.05.24-07.58.03:053][421]LogSavePackage: Moving '../../../../../../WitchesGame/SacrificeWitchesGame/Saved/LS_END2E8BA185440A48B9A285B8AA1A6682DCE.tmp' to '../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset'
+[2024.05.24-07.58.03:064][421]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 12.7 sec)
+[2024.05.24-07.58.03:076][421]AssetCheck: New page: Asset Save: LS_END2
+[2024.05.24-07.58.03:076][421]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/_Main/LS_END2.LS_END2
+[2024.05.24-07.59.44:969][520]Cmd: TRANSACTION UNDO
+[2024.05.24-07.59.44:969][520]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.05.24-07.59.45:025][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.45:025][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.45:026][520]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.46:445][598]Cmd: TRANSACTION UNDO
+[2024.05.24-07.59.46:445][598]LogEditorTransaction: Undo Resize section
+[2024.05.24-07.59.46:467][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.46:467][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.46:468][598]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.47:371][653]Cmd: TRANSACTION UNDO
+[2024.05.24-07.59.47:371][653]LogEditorTransaction: Undo Resize section
+[2024.05.24-07.59.47:394][653]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.47:394][653]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.47:395][653]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.47:732][674]Cmd: TRANSACTION UNDO
+[2024.05.24-07.59.47:732][674]LogEditorTransaction: Undo Rotate Elements
+[2024.05.24-07.59.47:756][674]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.47:756][674]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.47:756][674]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.48:094][695]Cmd: TRANSACTION UNDO
+[2024.05.24-07.59.48:094][695]LogEditorTransaction: Undo Move Elements
+[2024.05.24-07.59.48:117][695]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.48:118][695]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.48:118][695]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.48:438][715]Cmd: TRANSACTION UNDO
+[2024.05.24-07.59.48:438][715]LogEditorTransaction: Undo Rotate Elements
+[2024.05.24-07.59.48:463][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.48:463][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.48:464][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.48:751][733]Cmd: TRANSACTION UNDO
+[2024.05.24-07.59.48:751][733]LogEditorTransaction: Undo Move Elements
+[2024.05.24-07.59.48:803][733]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.48:803][733]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.48:804][733]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.49:109][748]Cmd: TRANSACTION UNDO
+[2024.05.24-07.59.49:109][748]LogEditorTransaction: Undo Move Elements
+[2024.05.24-07.59.49:138][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.49:138][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-07.59.49:139][748]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.00.20:032][597]Cmd: TRANSACTION UNDO
+[2024.05.24-08.00.20:032][597]LogEditorTransaction: Undo Move Elements
+[2024.05.24-08.00.20:075][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.00.20:076][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.00.20:076][597]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.00.24:294][841]Cmd: TRANSACTION UNDO
+[2024.05.24-08.00.24:294][841]LogEditorTransaction: Undo Move Elements
+[2024.05.24-08.00.24:336][841]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.00.24:336][841]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.00.24:336][841]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.00.39:271][723]LogViewport: Scene viewport resized to 420x236, mode Windowed.
+[2024.05.24-08.01.35:212][ 70]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/_Main/ConventCharacters/NunNPC/Nun2/Talking_nun2_mixamo_com.Talking_nun2_mixamo_com
+[2024.05.24-08.01.35:239][ 70]LogAnimationCompression: Display: Storing compressed animation data for /Game/_Main/ConventCharacters/NunNPC/Nun2/Talking_nun2_mixamo_com.Talking_nun2_mixamo_com, at AnimationSequence/eb804b2d1e9c089120cd0fa7e46ed24b10585f24
+[2024.05.24-08.02.23:915][989]Cmd: TRANSACTION UNDO
+[2024.05.24-08.02.23:915][989]LogEditorTransaction: Undo Resize section
+[2024.05.24-08.02.23:967][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.02.23:967][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.02.23:967][989]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.04.24:106][156]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-08.04.24:170][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/CaveLevel/Cave" FILE="../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.24-08.04.24:204][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.05.24-08.04.24:315][156]LogSavePackage: Moving output files for package: /Game/_Main/CaveLevel/Cave
+[2024.05.24-08.04.24:315][156]LogSavePackage: Moving '../../../../../../WitchesGame/SacrificeWitchesGame/Saved/Cave48E6F32443B9F3CA6287DF849FC4A5D8.tmp' to '../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap'
+[2024.05.24-08.04.24:323][156]LogFileHelpers: Saving map 'Cave' took 0.153
+[2024.05.24-08.04.24:332][156]LogFileHelpers: InternalPromptForCheckoutAndSave took 226 ms (total: 13.0 sec)
+[2024.05.24-08.04.24:339][156]AssetCheck: New page: Asset Save: Cave
+[2024.05.24-08.04.24:339][156]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Main/CaveLevel/Cave.Cave
+[2024.05.24-08.04.58:431][159]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-08.04.58:491][159]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/CaveLevel/Cave" FILE="../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.24-08.04.58:510][159]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.05.24-08.04.58:613][159]LogSavePackage: Moving output files for package: /Game/_Main/CaveLevel/Cave
+[2024.05.24-08.04.58:613][159]LogSavePackage: Moving '../../../../../../WitchesGame/SacrificeWitchesGame/Saved/Cave50BE4CDD40BBC73912287E9BA839E9D1.tmp' to '../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap'
+[2024.05.24-08.04.58:619][159]LogFileHelpers: Saving map 'Cave' took 0.129
+[2024.05.24-08.04.58:629][159]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 13.2 sec)
+[2024.05.24-08.04.58:632][159]AssetCheck: New page: Asset Save: Cave
+[2024.05.24-08.04.58:633][159]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Main/CaveLevel/Cave.Cave
+[2024.05.24-08.05.01:157][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.05.24-08.05.01:175][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.05.24-08.05.02:932][309]LogSlate: Window 'Save Content' being destroyed
+[2024.05.24-08.05.02:945][309]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-08.05.03:073][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/LS_END2" FILE="../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset" SILENT=true
+[2024.05.24-08.05.03:083][309]LogSavePackage: Moving output files for package: /Game/_Main/LS_END2
+[2024.05.24-08.05.03:084][309]LogSavePackage: Moving '../../../../../../WitchesGame/SacrificeWitchesGame/Saved/LS_END2885021114459A35AC1366BB852E1D967.tmp' to '../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset'
+[2024.05.24-08.05.03:094][309]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 13.3 sec)
+[2024.05.24-08.05.03:100][309]AssetCheck: New page: Asset Save: LS_END2
+[2024.05.24-08.05.03:100][309]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/_Main/LS_END2.LS_END2
+[2024.05.24-08.05.04:686][402]LogViewport: Scene viewport resized to 1684x503, mode Windowed.
+[2024.05.24-08.05.04:705][403]LogViewport: Scene viewport resized to 1684x508, mode Windowed.
+[2024.05.24-08.05.04:740][405]LogViewport: Scene viewport resized to 1684x522, mode Windowed.
+[2024.05.24-08.05.04:758][406]LogViewport: Scene viewport resized to 1684x536, mode Windowed.
+[2024.05.24-08.05.04:818][407]LogViewport: Scene viewport resized to 1684x625, mode Windowed.
+[2024.05.24-08.05.04:858][409]LogViewport: Scene viewport resized to 1684x683, mode Windowed.
+[2024.05.24-08.05.04:874][410]LogViewport: Scene viewport resized to 1684x728, mode Windowed.
+[2024.05.24-08.05.04:899][411]LogViewport: Scene viewport resized to 1684x764, mode Windowed.
+[2024.05.24-08.05.04:966][413]LogViewport: Scene viewport resized to 1684x839, mode Windowed.
+[2024.05.24-08.05.04:983][414]LogViewport: Scene viewport resized to 1684x854, mode Windowed.
+[2024.05.24-08.05.05:004][415]LogViewport: Scene viewport resized to 1684x883, mode Windowed.
+[2024.05.24-08.05.05:045][417]LogViewport: Scene viewport resized to 1684x916, mode Windowed.
+[2024.05.24-08.05.05:077][419]LogViewport: Scene viewport resized to 1684x935, mode Windowed.
+[2024.05.24-08.05.05:094][420]LogViewport: Scene viewport resized to 1684x940, mode Windowed.
+[2024.05.24-08.05.05:114][421]LogViewport: Scene viewport resized to 1684x943, mode Windowed.
+[2024.05.24-08.05.05:139][422]LogViewport: Scene viewport resized to 1684x944, mode Windowed.
+[2024.05.24-08.05.09:251][658]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.24-08.05.09:252][658]LogPlayLevel: [PlayLevel] Compiling Cave before play...
+[2024.05.24-08.05.09:311][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.05.24-08.05.09:313][658]LogPlayLevel: PlayLevel: Blueprint regeneration took 61 ms (1 blueprints)
+[2024.05.24-08.05.09:313][658]PIE: New page: PIE session: Cave (24 May 2024, 10:05:09)
+[2024.05.24-08.05.09:313][658]LogPlayLevel: Creating play world package: /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.24-08.05.09:338][658]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024513s)
+[2024.05.24-08.05.09:338][658]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/CaveLevel/Cave.Cave to /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave (0.024549s)
+[2024.05.24-08.05.09:338][658]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-08.05.09:338][658]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-08.05.09:339][658]LogAIModule: Creating AISystem for world Cave
+[2024.05.24-08.05.09:339][658]LogPlayLevel: PIE: World Init took: (0.000914s)
+[2024.05.24-08.05.09:357][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.05.24-08.05.09:357][658]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.05.24-08.05.09:357][658]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-08.05.09:357][658]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-08.05.09:357][658]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-08.05.09:357][658]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-08.05.09:357][658]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-08.05.09:357][658]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.24-08.05.09:357][658]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-08.05.09:357][658]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-08.05.09:358][658]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-08.05.09:358][658]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-08.05.09:358][658]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-08.05.09:360][658]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-08.05.09:374][658]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.24-08.05.09:374][658]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-08.05.09:374][658]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-08.05.09:374][658]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-08.05.09:376][658]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.05.24-08.05.09:376][658]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.05.24-08.05.09:377][658]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.05.24-08.05.09:377][658]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.05.24-08.05.09:377][658]LogInit: FAudioDevice initialized with ID 7.
+[2024.05.24-08.05.09:377][658]LogAudio: Display: Audio Device (ID: 7) registered with world 'Cave'.
+[2024.05.24-08.05.09:377][658]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.24-08.05.09:380][658]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.24-08.05.09:395][658]LogWorld: Bringing World /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave up for play (max tick rate 60) at 2024.05.24-09.05.09
+[2024.05.24-08.05.09:396][658]LogWorld: Bringing up level for play took: 0.016161
+[2024.05.24-08.05.09:398][658]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.05.24-08.05.09:400][658]PIE: Server logged in
+[2024.05.24-08.05.09:401][658]PIE: Play in editor total start time 0.15 seconds.
+[2024.05.24-08.05.09:503][658]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.05.09:503][658]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.05.09:503][658]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.05.11:650][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-08.05.11:650][782]LogWorld: BeginTearingDown for /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.24-08.05.11:651][782]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-08.05.11:656][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-08.05.11:658][782]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-08.05.11:663][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-08.05.11:680][782]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-08.05.11:682][782]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.05.24-08.05.11:682][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.24-08.05.11:684][782]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.05.24-08.05.11:692][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2024.05.24-08.05.11:705][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.05.11:706][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.05.11:706][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.05.11:716][783]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.05.24-08.05.27:271][685]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.05.24-08.05.27:271][685]LogPlayLevel: [PlayLevel] Compiling Cave before play...
+[2024.05.24-08.05.27:344][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.24-08.05.27:348][685]LogPlayLevel: PlayLevel: Blueprint regeneration took 76 ms (1 blueprints)
+[2024.05.24-08.05.27:348][685]PIE: New page: PIE session: Cave (24 May 2024, 10:05:27)
+[2024.05.24-08.05.27:348][685]LogPlayLevel: Creating play world package: /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.24-08.05.27:374][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025776s)
+[2024.05.24-08.05.27:374][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/_Main/CaveLevel/Cave.Cave to /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave (0.025812s)
+[2024.05.24-08.05.27:374][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-08.05.27:374][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.24-08.05.27:374][685]LogAIModule: Creating AISystem for world Cave
+[2024.05.24-08.05.27:376][685]LogPlayLevel: PIE: World Init took: (0.001098s)
+[2024.05.24-08.05.27:393][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.24-08.05.27:394][685]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.05.24-08.05.27:394][685]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.05.24-08.05.27:394][685]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.05.24-08.05.27:394][685]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.05.24-08.05.27:394][685]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.05.24-08.05.27:394][685]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.05.24-08.05.27:394][685]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.05.24-08.05.27:394][685]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.05.24-08.05.27:394][685]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.05.24-08.05.27:394][685]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.05.24-08.05.27:394][685]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.05.24-08.05.27:394][685]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.05.24-08.05.27:396][685]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.05.24-08.05.27:410][685]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.05.24-08.05.27:411][685]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.05.24-08.05.27:411][685]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.05.24-08.05.27:411][685]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.05.24-08.05.27:412][685]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.05.24-08.05.27:412][685]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.05.24-08.05.27:413][685]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.05.24-08.05.27:413][685]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.05.24-08.05.27:413][685]LogInit: FAudioDevice initialized with ID 8.
+[2024.05.24-08.05.27:413][685]LogAudio: Display: Audio Device (ID: 8) registered with world 'Cave'.
+[2024.05.24-08.05.27:413][685]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.24-08.05.27:416][685]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.05.24-08.05.27:433][685]LogWorld: Bringing World /Game/_Main/CaveLevel/UEDPIE_0_Cave.Cave up for play (max tick rate 60) at 2024.05.24-09.05.27
+[2024.05.24-08.05.27:434][685]LogWorld: Bringing up level for play took: 0.018256
+[2024.05.24-08.05.27:436][685]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.05.24-08.05.27:438][685]PIE: Server logged in
+[2024.05.24-08.05.27:439][685]PIE: Play in editor total start time 0.168 seconds.
+[2024.05.24-08.05.27:554][685]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.05.27:555][685]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.05.27:555][685]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.05.29:906][822]LogLevelSequence: Starting new camera cut: 'CineCameraActor_8'
+[2024.05.24-08.05.29:907][822]LogSubtitle: Warning: Subtitle has time offset greater than length of sound - clamping
+[2024.05.24-08.05.37:372][270]LogLevelSequence: Starting new camera cut: 'CineCameraActor_9'
+[2024.05.24-08.05.44:571][702]LogLevelSequence: Starting new camera cut: 'CineCameraActor_8'
+[2024.05.24-08.05.47:644][886]LogLevelSequence: Starting new camera cut: 'CineCameraActor_9'
+[2024.05.24-08.05.52:977][206]LogLevelSequence: Starting new camera cut: 'CineCameraActor_8'
+[2024.05.24-08.06.01:829][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-08.06.01:829][734]LogWorld: BeginTearingDown for /Game/_Main/CaveLevel/UEDPIE_0_Cave
+[2024.05.24-08.06.01:831][734]LogWorld: UWorld::CleanupWorld for Cave, bSessionEnded=true, bCleanupResources=true
+[2024.05.24-08.06.01:833][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-08.06.01:838][734]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.05.24-08.06.01:841][734]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.24-08.06.01:857][734]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.24-08.06.01:857][734]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.05.24-08.06.01:858][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.24-08.06.01:859][734]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.05.24-08.06.01:862][734]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.05.24-08.06.01:869][734]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.05.24-08.06.01:890][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.06.01:890][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.06.01:890][734]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.06.01:901][735]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.05.24-08.06.04:023][861]LogViewport: Scene viewport resized to 1684x938, mode Windowed.
+[2024.05.24-08.06.04:041][862]LogViewport: Scene viewport resized to 1684x931, mode Windowed.
+[2024.05.24-08.06.04:062][863]LogViewport: Scene viewport resized to 1684x904, mode Windowed.
+[2024.05.24-08.06.04:084][864]LogViewport: Scene viewport resized to 1684x863, mode Windowed.
+[2024.05.24-08.06.04:124][866]LogViewport: Scene viewport resized to 1684x768, mode Windowed.
+[2024.05.24-08.06.04:142][867]LogViewport: Scene viewport resized to 1684x737, mode Windowed.
+[2024.05.24-08.06.04:162][868]LogViewport: Scene viewport resized to 1684x698, mode Windowed.
+[2024.05.24-08.06.04:203][870]LogViewport: Scene viewport resized to 1684x622, mode Windowed.
+[2024.05.24-08.06.04:237][872]LogViewport: Scene viewport resized to 1684x572, mode Windowed.
+[2024.05.24-08.06.04:255][873]LogViewport: Scene viewport resized to 1684x545, mode Windowed.
+[2024.05.24-08.06.04:274][874]LogViewport: Scene viewport resized to 1684x512, mode Windowed.
+[2024.05.24-08.06.04:315][876]LogViewport: Scene viewport resized to 1684x452, mode Windowed.
+[2024.05.24-08.06.04:334][877]LogViewport: Scene viewport resized to 1684x427, mode Windowed.
+[2024.05.24-08.06.04:371][879]LogViewport: Scene viewport resized to 1684x372, mode Windowed.
+[2024.05.24-08.06.04:406][881]LogViewport: Scene viewport resized to 1684x329, mode Windowed.
+[2024.05.24-08.06.04:423][882]LogViewport: Scene viewport resized to 1684x302, mode Windowed.
+[2024.05.24-08.06.04:442][883]LogViewport: Scene viewport resized to 1684x286, mode Windowed.
+[2024.05.24-08.06.04:464][884]LogViewport: Scene viewport resized to 1684x269, mode Windowed.
+[2024.05.24-08.06.04:501][886]LogViewport: Scene viewport resized to 1684x257, mode Windowed.
+[2024.05.24-08.06.04:536][888]LogViewport: Scene viewport resized to 1684x255, mode Windowed.
+[2024.05.24-08.06.35:853][766]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.06.35:854][766]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.06.35:854][766]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.07.09:460][782]Cmd: TRANSACTION UNDO
+[2024.05.24-08.07.09:460][782]LogEditorTransaction: Undo Move Keys
+[2024.05.24-08.07.09:518][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.07.09:518][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.07.09:518][782]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.07.41:880][715]Cmd: TRANSACTION UNDO
+[2024.05.24-08.07.41:880][715]LogEditorTransaction: Undo Move Keys
+[2024.05.24-08.07.41:932][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.07.41:932][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.07.41:932][715]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.07.47:701][ 52]LogViewport: Scene viewport resized to 1684x271, mode Windowed.
+[2024.05.24-08.07.47:723][ 53]LogViewport: Scene viewport resized to 1684x290, mode Windowed.
+[2024.05.24-08.07.47:764][ 55]LogViewport: Scene viewport resized to 1684x343, mode Windowed.
+[2024.05.24-08.07.47:805][ 57]LogViewport: Scene viewport resized to 1684x419, mode Windowed.
+[2024.05.24-08.07.47:840][ 59]LogViewport: Scene viewport resized to 1684x477, mode Windowed.
+[2024.05.24-08.07.47:860][ 60]LogViewport: Scene viewport resized to 1684x506, mode Windowed.
+[2024.05.24-08.07.47:898][ 62]LogViewport: Scene viewport resized to 1684x550, mode Windowed.
+[2024.05.24-08.07.47:957][ 64]LogViewport: Scene viewport resized to 1684x614, mode Windowed.
+[2024.05.24-08.07.47:994][ 66]LogViewport: Scene viewport resized to 1684x641, mode Windowed.
+[2024.05.24-08.07.48:013][ 67]LogViewport: Scene viewport resized to 1684x668, mode Windowed.
+[2024.05.24-08.07.48:084][ 69]LogViewport: Scene viewport resized to 1684x774, mode Windowed.
+[2024.05.24-08.07.48:121][ 71]LogViewport: Scene viewport resized to 1684x842, mode Windowed.
+[2024.05.24-08.07.48:159][ 73]LogViewport: Scene viewport resized to 1684x885, mode Windowed.
+[2024.05.24-08.07.48:194][ 75]LogViewport: Scene viewport resized to 1684x895, mode Windowed.
+[2024.05.24-08.07.48:300][ 81]LogViewport: Scene viewport resized to 1684x899, mode Windowed.
+[2024.05.24-08.07.48:336][ 83]LogViewport: Scene viewport resized to 1684x902, mode Windowed.
+[2024.05.24-08.07.48:354][ 84]LogViewport: Scene viewport resized to 1684x903, mode Windowed.
+[2024.05.24-08.08.02:790][912]LogViewport: Scene viewport resized to 1684x894, mode Windowed.
+[2024.05.24-08.08.02:809][913]LogViewport: Scene viewport resized to 1684x887, mode Windowed.
+[2024.05.24-08.08.02:834][914]LogViewport: Scene viewport resized to 1684x871, mode Windowed.
+[2024.05.24-08.08.02:874][916]LogViewport: Scene viewport resized to 1684x820, mode Windowed.
+[2024.05.24-08.08.02:910][918]LogViewport: Scene viewport resized to 1684x779, mode Windowed.
+[2024.05.24-08.08.02:947][920]LogViewport: Scene viewport resized to 1684x730, mode Windowed.
+[2024.05.24-08.08.02:984][922]LogViewport: Scene viewport resized to 1684x707, mode Windowed.
+[2024.05.24-08.08.03:005][923]LogViewport: Scene viewport resized to 1684x701, mode Windowed.
+[2024.05.24-08.08.03:047][925]LogViewport: Scene viewport resized to 1684x693, mode Windowed.
+[2024.05.24-08.08.04:410][  7]Cmd: TRANSACTION UNDO
+[2024.05.24-08.08.04:410][  7]LogEditorTransaction: Undo Select Actors/Components
+[2024.05.24-08.08.04:462][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.08.04:462][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.08.04:462][  7]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.08.16:342][708]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.08.16:342][708]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.08.16:343][708]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.09.09:759][903]Cmd: TRANSACTION UNDO
+[2024.05.24-08.09.09:759][903]LogEditorTransaction: Undo Resize section
+[2024.05.24-08.09.09:810][903]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.09.09:810][903]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.09.09:810][903]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.09.40:294][721]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-08.09.40:362][721]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/LS_END2" FILE="../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset" SILENT=true
+[2024.05.24-08.09.40:373][721]LogSavePackage: Moving output files for package: /Game/_Main/LS_END2
+[2024.05.24-08.09.40:374][721]LogSavePackage: Moving '../../../../../../WitchesGame/SacrificeWitchesGame/Saved/LS_END24D05B90B46F5F2219D31F3BED2B45534.tmp' to '../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset'
+[2024.05.24-08.09.40:384][721]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 13.4 sec)
+[2024.05.24-08.09.40:393][721]AssetCheck: New page: Asset Save: LS_END2
+[2024.05.24-08.09.40:393][721]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/_Main/LS_END2.LS_END2
+[2024.05.24-08.09.48:428][201]LogViewport: Scene viewport resized to 583x328, mode Windowed.
+[2024.05.24-08.11.15:800][405]Cmd: TRANSACTION UNDO
+[2024.05.24-08.11.15:800][405]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.05.24-08.11.15:868][405]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.11.15:868][405]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.11.15:869][405]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.11.38:297][736]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.11.38:297][736]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.11.38:297][736]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.11.49:211][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.05.24-08.11.49:241][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2024.05.24-08.11.50:107][283]LogSlate: Window 'Save Content' being destroyed
+[2024.05.24-08.11.50:115][283]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-08.11.50:195][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/CaveLevel/Cave" FILE="../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.24-08.11.50:214][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.05.24-08.11.50:350][283]LogSavePackage: Moving output files for package: /Game/_Main/CaveLevel/Cave
+[2024.05.24-08.11.50:350][283]LogSavePackage: Moving '../../../../../../WitchesGame/SacrificeWitchesGame/Saved/CaveD9B22E964D9D13E60CE43DA113842D8B.tmp' to '../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap'
+[2024.05.24-08.11.50:358][283]LogFileHelpers: Saving map 'Cave' took 0.164
+[2024.05.24-08.11.50:358][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/LS_END2" FILE="../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset" SILENT=true
+[2024.05.24-08.11.50:376][283]LogSavePackage: Moving output files for package: /Game/_Main/LS_END2
+[2024.05.24-08.11.50:377][283]LogSavePackage: Moving '../../../../../../WitchesGame/SacrificeWitchesGame/Saved/LS_END2DE6EAC354A5235F6D9BB31B4F69491AD.tmp' to '../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset'
+[2024.05.24-08.11.50:386][283]LogFileHelpers: InternalPromptForCheckoutAndSave took 270 ms (total: 13.7 sec)
+[2024.05.24-08.11.50:392][283]AssetCheck: New page: Asset Save: multiple assets
+[2024.05.24-08.11.50:392][283]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Main/CaveLevel/Cave.Cave
+[2024.05.24-08.11.50:393][283]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/_Main/LS_END2.LS_END2
+[2024.05.24-08.11.56:257][597]LogEditor: Attempting to add actor of class 'CineCameraActor' to level at 2550.00,780.00,-150.00
+[2024.05.24-08.11.56:396][598]LogViewport: Scene viewport resized to 583x328, mode Windowed.
+[2024.05.24-08.12.30:401][625]LogViewport: Scene viewport resized to 583x328, mode Windowed.
+[2024.05.24-08.12.46:951][608]Cmd: DELETE
+[2024.05.24-08.12.46:951][608]Cmd: ACTOR DELETE
+[2024.05.24-08.12.46:999][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.24-08.12.55:217][608]LogSlate: Window 'Message' being destroyed
+[2024.05.24-08.12.55:226][608]Message dialog closed, result: No, title: Message, text: Actor T-Pose_nun2 is referenced by other Actors/Objects.
+Do you really want to delete it? This will break references.
+
+Reference List:
+
+(Soft) Object /Game/_Main/LS_END2.LS_END2
+[2024.05.24-08.12.55:258][608]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.05.24-08.12.55:280][608]LogEditorActor: Deleted 0 Actors (0.133 secs)
+[2024.05.24-08.13.44:898][554]LogViewport: Scene viewport resized to 583x328, mode Windowed.
+[2024.05.24-08.13.57:429][294]LogViewport: Scene viewport resized to 583x328, mode Windowed.
+[2024.05.24-08.14.31:729][329]LogViewport: Scene viewport resized to 583x328, mode Windowed.
+[2024.05.24-08.16.04:548][860]LogViewport: Scene viewport resized to 583x328, mode Windowed.
+[2024.05.24-08.17.00:382][183]LogViewport: Scene viewport resized to 583x328, mode Windowed.
+[2024.05.24-08.18.04:196][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:197][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:197][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:197][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:197][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:198][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:198][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:198][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:198][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:198][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:199][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:199][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:199][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:199][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.04:200][  4]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:936][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:936][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:936][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:937][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:937][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:937][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:937][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:938][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:938][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:938][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:938][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:938][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:939][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.10:942][403]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:869][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:869][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:869][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:870][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:870][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:870][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:870][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:870][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:871][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:871][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:872][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:872][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:872][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.12:874][519]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:828][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:828][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:829][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:829][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:829][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:830][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:830][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:830][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:830][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:830][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:831][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.18.37:831][ 16]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:837][772]Cmd: TRANSACTION UNDO
+[2024.05.24-08.19.23:837][772]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.05.24-08.19.23:893][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:893][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:893][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:894][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:894][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:894][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:894][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:894][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:894][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:894][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:896][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:896][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.23:898][772]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:820][955]Cmd: TRANSACTION UNDO
+[2024.05.24-08.19.43:820][955]LogEditorTransaction: Undo Move Elements
+[2024.05.24-08.19.43:866][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:866][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:866][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:868][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:868][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:868][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:868][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:869][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:869][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:869][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:869][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:869][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.43:872][955]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:287][ 93]Cmd: TRANSACTION UNDO
+[2024.05.24-08.19.46:287][ 93]LogEditorTransaction: Undo Rotate Elements
+[2024.05.24-08.19.46:301][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:301][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:301][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:302][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:302][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:302][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:302][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:303][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:303][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:303][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:303][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:303][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.46:306][ 93]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:740][599]Cmd: TRANSACTION REDO
+[2024.05.24-08.19.54:740][599]LogEditorTransaction: Redo Rotate Elements
+[2024.05.24-08.19.54:790][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:790][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:790][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:791][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:791][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:791][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:791][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:792][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:792][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:792][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:792][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:793][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.54:794][599]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:309][623]Cmd: TRANSACTION REDO
+[2024.05.24-08.19.55:309][623]LogEditorTransaction: Redo Move Elements
+[2024.05.24-08.19.55:324][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:325][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:325][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:325][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:325][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:326][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:326][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:326][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:326][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:327][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:327][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:327][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.19.55:329][623]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:689][422]Cmd: TRANSACTION UNDO
+[2024.05.24-08.20.08:689][422]LogEditorTransaction: Undo Move Elements
+[2024.05.24-08.20.08:737][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:738][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:738][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:738][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:739][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:739][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:739][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:739][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:739][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:740][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:740][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:740][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.08:742][422]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:639][604]Cmd: TRANSACTION UNDO
+[2024.05.24-08.20.28:639][604]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.05.24-08.20.28:690][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:690][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:691][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:691][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:691][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:691][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:691][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:692][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:692][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:692][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:692][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:693][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.20.28:694][604]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:280][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:281][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:281][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:281][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:282][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:282][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:282][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:282][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:282][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:283][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:283][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:283][257]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.13:301][258]LogViewport: Scene viewport resized to 583x328, mode Windowed.
+[2024.05.24-08.21.32:071][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.32:072][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.32:072][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.32:072][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.32:073][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.32:073][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.32:073][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.32:073][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.32:074][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.32:074][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.32:074][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.32:074][375]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.44:162][ 97]LogViewport: Scene viewport resized to 1684x689, mode Windowed.
+[2024.05.24-08.21.44:199][ 99]LogViewport: Scene viewport resized to 1684x672, mode Windowed.
+[2024.05.24-08.21.44:218][100]LogViewport: Scene viewport resized to 1684x668, mode Windowed.
+[2024.05.24-08.21.44:260][102]LogViewport: Scene viewport resized to 1684x645, mode Windowed.
+[2024.05.24-08.21.44:300][104]LogViewport: Scene viewport resized to 1684x613, mode Windowed.
+[2024.05.24-08.21.44:323][105]LogViewport: Scene viewport resized to 1684x591, mode Windowed.
+[2024.05.24-08.21.44:344][106]LogViewport: Scene viewport resized to 1684x572, mode Windowed.
+[2024.05.24-08.21.44:387][108]LogViewport: Scene viewport resized to 1684x532, mode Windowed.
+[2024.05.24-08.21.44:407][109]LogViewport: Scene viewport resized to 1684x501, mode Windowed.
+[2024.05.24-08.21.44:434][110]LogViewport: Scene viewport resized to 1684x461, mode Windowed.
+[2024.05.24-08.21.44:476][112]LogViewport: Scene viewport resized to 1684x389, mode Windowed.
+[2024.05.24-08.21.44:514][114]LogViewport: Scene viewport resized to 1684x303, mode Windowed.
+[2024.05.24-08.21.44:553][116]LogViewport: Scene viewport resized to 1684x200, mode Windowed.
+[2024.05.24-08.21.44:574][117]LogViewport: Scene viewport resized to 1684x147, mode Windowed.
+[2024.05.24-08.21.44:597][118]LogViewport: Scene viewport resized to 1684x90, mode Windowed.
+[2024.05.24-08.21.44:637][120]LogViewport: Scene viewport resized to 1684x9, mode Windowed.
+[2024.05.24-08.21.45:093][147]LogViewport: Scene viewport resized to 1684x2, mode Windowed.
+[2024.05.24-08.21.45:113][148]LogViewport: Scene viewport resized to 1684x6, mode Windowed.
+[2024.05.24-08.21.45:152][150]LogViewport: Scene viewport resized to 1684x19, mode Windowed.
+[2024.05.24-08.21.45:170][151]LogViewport: Scene viewport resized to 1684x23, mode Windowed.
+[2024.05.24-08.21.45:191][152]LogViewport: Scene viewport resized to 1684x25, mode Windowed.
+[2024.05.24-08.21.45:328][160]LogViewport: Scene viewport resized to 1684x28, mode Windowed.
+[2024.05.24-08.21.45:347][161]LogViewport: Scene viewport resized to 1684x32, mode Windowed.
+[2024.05.24-08.21.45:382][163]LogViewport: Scene viewport resized to 1684x36, mode Windowed.
+[2024.05.24-08.21.45:534][172]LogViewport: Scene viewport resized to 1684x37, mode Windowed.
+[2024.05.24-08.21.45:553][173]LogViewport: Scene viewport resized to 1684x39, mode Windowed.
+[2024.05.24-08.21.50:076][444]Cmd: TRANSACTION UNDO
+[2024.05.24-08.21.50:076][444]LogEditorTransaction: Undo Set Key Value
+[2024.05.24-08.21.50:141][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:141][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:141][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:141][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:142][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:142][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:142][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:142][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:143][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:143][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:143][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:143][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.21.50:146][444]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.06:436][411]LogViewport: Scene viewport resized to 1684x59, mode Windowed.
+[2024.05.24-08.22.06:457][412]LogViewport: Scene viewport resized to 1684x72, mode Windowed.
+[2024.05.24-08.22.06:477][413]LogViewport: Scene viewport resized to 1684x90, mode Windowed.
+[2024.05.24-08.22.06:506][414]LogViewport: Scene viewport resized to 1684x111, mode Windowed.
+[2024.05.24-08.22.06:526][415]LogViewport: Scene viewport resized to 1684x119, mode Windowed.
+[2024.05.24-08.22.06:548][416]LogViewport: Scene viewport resized to 1684x133, mode Windowed.
+[2024.05.24-08.22.06:570][417]LogViewport: Scene viewport resized to 1684x146, mode Windowed.
+[2024.05.24-08.22.06:591][418]LogViewport: Scene viewport resized to 1684x158, mode Windowed.
+[2024.05.24-08.22.06:612][419]LogViewport: Scene viewport resized to 1684x173, mode Windowed.
+[2024.05.24-08.22.06:651][421]LogViewport: Scene viewport resized to 1684x195, mode Windowed.
+[2024.05.24-08.22.06:686][423]LogViewport: Scene viewport resized to 1684x207, mode Windowed.
+[2024.05.24-08.22.06:723][425]LogViewport: Scene viewport resized to 1684x215, mode Windowed.
+[2024.05.24-08.22.06:742][426]LogViewport: Scene viewport resized to 1684x219, mode Windowed.
+[2024.05.24-08.22.06:764][427]LogViewport: Scene viewport resized to 1684x221, mode Windowed.
+[2024.05.24-08.22.06:800][429]LogViewport: Scene viewport resized to 1684x230, mode Windowed.
+[2024.05.24-08.22.06:821][430]LogViewport: Scene viewport resized to 1684x237, mode Windowed.
+[2024.05.24-08.22.06:841][431]LogViewport: Scene viewport resized to 1684x244, mode Windowed.
+[2024.05.24-08.22.06:878][433]LogViewport: Scene viewport resized to 1684x258, mode Windowed.
+[2024.05.24-08.22.06:915][435]LogViewport: Scene viewport resized to 1684x268, mode Windowed.
+[2024.05.24-08.22.06:938][436]LogViewport: Scene viewport resized to 1684x276, mode Windowed.
+[2024.05.24-08.22.06:958][437]LogViewport: Scene viewport resized to 1684x286, mode Windowed.
+[2024.05.24-08.22.06:977][438]LogViewport: Scene viewport resized to 1684x291, mode Windowed.
+[2024.05.24-08.22.07:014][440]LogViewport: Scene viewport resized to 1684x305, mode Windowed.
+[2024.05.24-08.22.07:034][441]LogViewport: Scene viewport resized to 1684x312, mode Windowed.
+[2024.05.24-08.22.07:072][443]LogViewport: Scene viewport resized to 1684x327, mode Windowed.
+[2024.05.24-08.22.07:107][445]LogViewport: Scene viewport resized to 1684x340, mode Windowed.
+[2024.05.24-08.22.07:128][446]LogViewport: Scene viewport resized to 1684x351, mode Windowed.
+[2024.05.24-08.22.07:170][447]LogViewport: Scene viewport resized to 1684x382, mode Windowed.
+[2024.05.24-08.22.07:192][448]LogViewport: Scene viewport resized to 1684x408, mode Windowed.
+[2024.05.24-08.22.07:213][449]LogViewport: Scene viewport resized to 1684x426, mode Windowed.
+[2024.05.24-08.22.07:237][450]LogViewport: Scene viewport resized to 1684x450, mode Windowed.
+[2024.05.24-08.22.07:276][452]LogViewport: Scene viewport resized to 1684x474, mode Windowed.
+[2024.05.24-08.22.07:296][453]LogViewport: Scene viewport resized to 1684x492, mode Windowed.
+[2024.05.24-08.22.07:338][455]LogViewport: Scene viewport resized to 1684x537, mode Windowed.
+[2024.05.24-08.22.07:378][457]LogViewport: Scene viewport resized to 1684x569, mode Windowed.
+[2024.05.24-08.22.07:417][459]LogViewport: Scene viewport resized to 1684x623, mode Windowed.
+[2024.05.24-08.22.07:438][460]LogViewport: Scene viewport resized to 1684x643, mode Windowed.
+[2024.05.24-08.22.07:466][461]LogViewport: Scene viewport resized to 1684x683, mode Windowed.
+[2024.05.24-08.22.07:509][463]LogViewport: Scene viewport resized to 1684x727, mode Windowed.
+[2024.05.24-08.22.07:548][465]LogViewport: Scene viewport resized to 1684x766, mode Windowed.
+[2024.05.24-08.22.07:567][466]LogViewport: Scene viewport resized to 1684x767, mode Windowed.
+[2024.05.24-08.22.07:628][468]LogViewport: Scene viewport resized to 1684x779, mode Windowed.
+[2024.05.24-08.22.07:664][470]LogViewport: Scene viewport resized to 1684x790, mode Windowed.
+[2024.05.24-08.22.07:702][472]LogViewport: Scene viewport resized to 1684x801, mode Windowed.
+[2024.05.24-08.22.07:739][474]LogViewport: Scene viewport resized to 1684x816, mode Windowed.
+[2024.05.24-08.22.07:775][476]LogViewport: Scene viewport resized to 1684x827, mode Windowed.
+[2024.05.24-08.22.07:812][478]LogViewport: Scene viewport resized to 1684x834, mode Windowed.
+[2024.05.24-08.22.07:878][479]LogViewport: Scene viewport resized to 1684x857, mode Windowed.
+[2024.05.24-08.22.07:900][480]LogViewport: Scene viewport resized to 1684x860, mode Windowed.
+[2024.05.24-08.22.17:534][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:535][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:535][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:535][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:535][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:536][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:536][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:537][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:537][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:537][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:537][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:537][ 48]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:557][ 49]LogViewport: Scene viewport resized to 724x407, mode Windowed.
+[2024.05.24-08.22.17:903][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:904][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:904][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:904][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:904][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:904][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:906][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:906][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:906][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:906][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:907][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:907][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.17:910][ 65]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.22.19:079][131]LogViewport: Scene viewport resized to 724x407, mode Windowed.
+[2024.05.24-08.23.05:857][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:857][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:857][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:857][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:857][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:857][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:858][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:858][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:858][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:858][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:859][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:859][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.05:861][899]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.23.13:694][357]LogViewport: Scene viewport resized to 724x407, mode Windowed.
+[2024.05.24-08.24.04:671][362]Cmd: TRANSACTION UNDO
+[2024.05.24-08.24.04:671][362]LogEditorTransaction: Undo Add Keys at Current Time
+[2024.05.24-08.24.04:723][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:723][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:724][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:724][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:724][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:724][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:724][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:724][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:724][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:724][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:726][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:726][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.04:728][362]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:548][104]Cmd: TRANSACTION UNDO
+[2024.05.24-08.24.17:548][104]LogEditorTransaction: Undo Move Elements
+[2024.05.24-08.24.17:603][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:603][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:604][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:604][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:604][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:604][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:604][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:604][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:606][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:606][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:606][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:606][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.17:609][104]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:034][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:034][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:035][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:035][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:035][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:035][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:036][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:036][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:036][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:036][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:036][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.24.52:036][142]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.05.24-08.25.04:576][893]LogDerivedDataCache: C:/Users/Amara/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:01:12.291 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 37649 files in 39961 folders with total size 7867 MiB.
+[2024.05.24-08.25.45:762][358]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-08.25.45:838][358]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/LS_END2" FILE="../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset" SILENT=true
+[2024.05.24-08.25.45:848][358]LogSavePackage: Moving output files for package: /Game/_Main/LS_END2
+[2024.05.24-08.25.45:849][358]LogSavePackage: Moving '../../../../../../WitchesGame/SacrificeWitchesGame/Saved/LS_END25C1B612D4BF34D2E6FE1308EE4372E32.tmp' to '../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/LS_END2.uasset'
+[2024.05.24-08.25.45:860][358]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 13.8 sec)
+[2024.05.24-08.25.45:870][358]AssetCheck: New page: Asset Save: LS_END2
+[2024.05.24-08.25.45:870][358]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/_Main/LS_END2.LS_END2
+[2024.05.24-08.25.47:304][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.24-08.25.47:337][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.05.24-08.25.48:313][442]LogSlate: Window 'Save Content' being destroyed
+[2024.05.24-08.25.48:329][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.24-08.25.48:387][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Main/CaveLevel/Cave" FILE="../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.05.24-08.25.48:408][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.05.24-08.25.48:510][442]LogSavePackage: Moving output files for package: /Game/_Main/CaveLevel/Cave
+[2024.05.24-08.25.48:510][442]LogSavePackage: Moving '../../../../../../WitchesGame/SacrificeWitchesGame/Saved/Cave17EEE40B4FDAF834F5647585FBB84DA0.tmp' to '../../../../../../WitchesGame/SacrificeWitchesGame/Content/_Main/CaveLevel/Cave.umap'
+[2024.05.24-08.25.48:518][442]LogFileHelpers: Saving map 'Cave' took 0.131
+[2024.05.24-08.25.48:527][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 198 ms (total: 14.0 sec)
+[2024.05.24-08.25.48:531][442]AssetCheck: New page: Asset Save: Cave
+[2024.05.24-08.25.48:531][442]LogContentValidation: Display: Validating /Script/Engine.World /Game/_Main/CaveLevel/Cave.Cave
